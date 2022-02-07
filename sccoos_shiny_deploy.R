@@ -1,16 +1,17 @@
-#
+# edits to make:
+# make text bigger
+# make species names more readable
+# ####################################
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
-# Find out more about building applications with Shiny here:
-#    http://shiny.rstudio.com/
 library(shiny)
 library(cowplot)
 library(ggplot2)
 
 scaleFUN <- function(x) sprintf("%.2e", x)
 theme_set(
-  theme(ggtext::text=element_text(family="Times"),
+  theme(text=element_text(family="Times"),
         panel.background = element_rect(fill = NA),
         panel.border = element_rect(colour = "black", fill=NA, size=0.5),
         panel.grid.major = element_line(linetype = "blank"),
