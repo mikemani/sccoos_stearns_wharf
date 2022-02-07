@@ -46,8 +46,9 @@ sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp
          "Other_Dinoflagellates (cells/L)",
          "Total_Phytoplankton (cells/L)") %>%
   dplyr::mutate(., `Ammonium (uM)` =forecast::tsclean(.$`Ammonium (uM)`)) %>% # remove a few of the really crazy ammonium data points
+  dplyr::mutate(., datetime=cal_ts(datetime)) %>% # change time zone
   dplyr::mutate(., `Ammonium (uM)` = as.numeric(`Ammonium (uM)`)) %>% #convert timeseries to numeric
-  dplyr::mutate(., day = as.Date(datetime))  %>%
+  dplyr::mutate(., day = lubridate::floor_date(datetime, "day")) %>% # isolate date
   dplyr::select(., -datetime)
 
 sw <- dplyr::left_join(sw_station, sw, by = "day") %>%
