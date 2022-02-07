@@ -6,8 +6,8 @@
 #    http://shiny.rstudio.com/
 library(shiny)
 library(cowplot)
-library(scales)
 
+scaleFUN <- function(x) sprintf("%.2e", x)
 theme_set(
   theme(text=element_text(family="Times"),
         panel.background = element_rect(fill = NA),
@@ -34,12 +34,9 @@ theme_set(
 )
 
 sccoos_long <- readr::read_csv("sw_long_shiny_data.csv")
-test <- sccoos_long %>%
-  filter(., str_detect(Variable, "Silicate"))
-# rename variables
 
 
-# Define UI for application that draws a histogram
+# Define UI for application that draws two line plots
 ui = fluidPage(
   titlePanel("Stearns Wharf HAB monitoring"),
   sliderInput(inputId = "Order",
@@ -93,8 +90,7 @@ plotOutput(outputId="plotgraph", height="600px")
 )
 
 # Define server logic required to draw a histogram
-s <- shinyServer(function(input, output) {
-  set.seed(973)
+server <- function(input, output) {
 
     ### Filter by date
     env_plot <- reactive({
@@ -106,11 +102,7 @@ s <- shinyServer(function(input, output) {
       labs (x = "Time", y = "Values", title = " ") +
       # scale_colour_discrete(name = "Variable")+
       geom_line(data=plot.env[!is.na(plot.env$data_vals),], aes(x = day, y = data_vals, colour = Variable))+
-      scale_y_continuous(labels = scales::label_scientific(
-        digits = 1,
-        scale = 1,
-        decimal.mark = ".",
-        trim = TRUE))
+      scale_y_continuous(labels = scaleFUN)
     })
 
     phyto_plot <- reactive({
@@ -123,11 +115,7 @@ s <- shinyServer(function(input, output) {
       labs (x = "Time", y = "Values", title = " ") +
       # scale_colour_discrete(name = "Variable")+
       geom_line(data=plot.phyto[!is.na(plot.phyto$data_vals),], aes(x = day, y = data_vals, colour = Variable))+
-      scale_y_continuous(labels = scales::label_scientific(
-        digits = 1,
-        scale = 1,
-        decimal.mark = ".",
-        trim = TRUE))
+      scale_y_continuous(labels = scaleFUN)
     })
 
     output$plotgraph = renderPlot({
@@ -143,7 +131,7 @@ s <- shinyServer(function(input, output) {
       # cowplot::plot_grid(plotlist = ptlist, ncol=1)
       gridExtra::grid.arrange(grobs=ptlist,widths=wtlist,nrow=length(ptlist))
     })
-})
+}
 
 # Run the application
 shinyApp(ui = ui, server = server)
