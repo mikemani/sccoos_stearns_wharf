@@ -8,14 +8,24 @@
 #
 
 library(shiny)
+ggplot(sw, aes(datetime,`Ammonium (uM)`)) +
+  geom_line()+
+  geom_point() +
+  theme_classic()
 
+# rename variables
+
+ggplot(test2, aes(day,temp)) +
+  geom_line()+
+  geom_point() +
+  theme_classic()
 # Define UI for application that draws a histogram
 ui <- fluidPage(
 
     # Application title
     titlePanel("Old Faithful Geyser Data"),
 
-    # Sidebar with a slider input for number of bins 
+    # Sidebar with a slider input for number of bins
     sidebarLayout(
         sidebarPanel(
             sliderInput("bins",
@@ -45,5 +55,5 @@ server <- function(input, output) {
     })
 }
 
-# Run the application 
+# Run the application
 shinyApp(ui = ui, server = server)
