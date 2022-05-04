@@ -44335,7 +44335,7 @@ day,Variable,data_vals
 2021-01-25T08:00:00Z,Chl-a extracted (ug/L),1.119
 2021-01-25T08:00:00Z,Phosphate (uM),0.451
 2021-01-25T08:00:00Z,Silicate (uM),4.83
-2021-01-25T08:00:00Z,Ammonium (uM),11.887500000000001
+2021-01-25T08:00:00Z,Ammonium (uM),1.862
 2021-01-25T08:00:00Z,Nitrate (uM),1.19
 2021-01-25T08:00:00Z,pDA (ng/mL),0
 2021-01-25T08:00:00Z,Akashiwo_sanguinea (cells/L),0
@@ -44797,7 +44797,7 @@ day,Variable,data_vals
 2021-02-15T08:00:00Z,Chl-a extracted (ug/L),0.335
 2021-02-15T08:00:00Z,Phosphate (uM),1.022
 2021-02-15T08:00:00Z,Silicate (uM),14.826
-2021-02-15T08:00:00Z,Ammonium (uM),8.90875
+2021-02-15T08:00:00Z,Ammonium (uM),16.026666666666664
 2021-02-15T08:00:00Z,Nitrate (uM),13.632
 2021-02-15T08:00:00Z,pDA (ng/mL),0
 2021-02-15T08:00:00Z,Akashiwo_sanguinea (cells/L),0
@@ -44951,7 +44951,7 @@ day,Variable,data_vals
 2021-02-22T08:00:00Z,Chl-a extracted (ug/L),3.133
 2021-02-22T08:00:00Z,Phosphate (uM),0.639
 2021-02-22T08:00:00Z,Silicate (uM),10.443
-2021-02-22T08:00:00Z,Ammonium (uM),14.857499999999998
+2021-02-22T08:00:00Z,Ammonium (uM),29.09333333333333
 2021-02-22T08:00:00Z,Nitrate (uM),5.946
 2021-02-22T08:00:00Z,pDA (ng/mL),0
 2021-02-22T08:00:00Z,Akashiwo_sanguinea (cells/L),0
@@ -45105,7 +45105,7 @@ day,Variable,data_vals
 2021-03-01T08:00:00Z,Chl-a extracted (ug/L),6.564
 2021-03-01T08:00:00Z,Phosphate (uM),0.342
 2021-03-01T08:00:00Z,Silicate (uM),7.981
-2021-03-01T08:00:00Z,Ammonium (uM),20.80625
+2021-03-01T08:00:00Z,Ammonium (uM),42.16
 2021-03-01T08:00:00Z,Nitrate (uM),0
 2021-03-01T08:00:00Z,pDA (ng/mL),0
 2021-03-01T08:00:00Z,Akashiwo_sanguinea (cells/L),0
@@ -50339,10 +50339,10 @@ day,Variable,data_vals
 2021-10-25T07:00:00Z,Chlorophyll fluorescence (ug/L),1.432084745762712
 2021-10-25T07:00:00Z,Salinity(1e-3),33.21374802259887
 2021-10-25T07:00:00Z,Chl-a extracted (ug/L),1.873
-2021-10-25T07:00:00Z,Phosphate (uM),NA
-2021-10-25T07:00:00Z,Silicate (uM),NA
-2021-10-25T07:00:00Z,Ammonium (uM),1.906
-2021-10-25T07:00:00Z,Nitrate (uM),NA
+2021-10-25T07:00:00Z,Phosphate (uM),0.337
+2021-10-25T07:00:00Z,Silicate (uM),3.508
+2021-10-25T07:00:00Z,Ammonium (uM),10.054
+2021-10-25T07:00:00Z,Nitrate (uM),0.305
 2021-10-25T07:00:00Z,pDA (ng/mL),0
 2021-10-25T07:00:00Z,Akashiwo_sanguinea (cells/L),0
 2021-10-25T07:00:00Z,Alexandrium_spp (cells/L),0
@@ -50493,10 +50493,10 @@ day,Variable,data_vals
 2021-11-01T07:00:00Z,Chlorophyll fluorescence (ug/L),1.9424074074074074
 2021-11-01T07:00:00Z,Salinity(1e-3),33.387374074074074
 2021-11-01T07:00:00Z,Chl-a extracted (ug/L),13.069
-2021-11-01T07:00:00Z,Phosphate (uM),NA
-2021-11-01T07:00:00Z,Silicate (uM),NA
-2021-11-01T07:00:00Z,Ammonium (uM),1.906
-2021-11-01T07:00:00Z,Nitrate (uM),NA
+2021-11-01T07:00:00Z,Phosphate (uM),0.308
+2021-11-01T07:00:00Z,Silicate (uM),5.305
+2021-11-01T07:00:00Z,Ammonium (uM),10.081
+2021-11-01T07:00:00Z,Nitrate (uM),0
 2021-11-01T07:00:00Z,pDA (ng/mL),0
 2021-11-01T07:00:00Z,Akashiwo_sanguinea (cells/L),4630
 2021-11-01T07:00:00Z,Alexandrium_spp (cells/L),0
@@ -50647,10 +50647,10 @@ day,Variable,data_vals
 2021-11-08T08:00:00Z,Chlorophyll fluorescence (ug/L),1.4574095238095237
 2021-11-08T08:00:00Z,Salinity(1e-3),33.395270476190476
 2021-11-08T08:00:00Z,Chl-a extracted (ug/L),5.706
-2021-11-08T08:00:00Z,Phosphate (uM),NA
-2021-11-08T08:00:00Z,Silicate (uM),NA
-2021-11-08T08:00:00Z,Ammonium (uM),1.906
-2021-11-08T08:00:00Z,Nitrate (uM),NA
+2021-11-08T08:00:00Z,Phosphate (uM),0.361
+2021-11-08T08:00:00Z,Silicate (uM),5.345
+2021-11-08T08:00:00Z,Ammonium (uM),10.108
+2021-11-08T08:00:00Z,Nitrate (uM),0.527
 2021-11-08T08:00:00Z,pDA (ng/mL),0
 2021-11-08T08:00:00Z,Akashiwo_sanguinea (cells/L),1160
 2021-11-08T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -50757,10 +50757,10 @@ day,Variable,data_vals
 2021-11-15T08:00:00Z,Chlorophyll fluorescence (ug/L),2.213162393162393
 2021-11-15T08:00:00Z,Salinity(1e-3),33.37839173789174
 2021-11-15T08:00:00Z,Chl-a extracted (ug/L),7.211
-2021-11-15T08:00:00Z,Phosphate (uM),NA
-2021-11-15T08:00:00Z,Silicate (uM),NA
-2021-11-15T08:00:00Z,Ammonium (uM),1.906
-2021-11-15T08:00:00Z,Nitrate (uM),NA
+2021-11-15T08:00:00Z,Phosphate (uM),0.147
+2021-11-15T08:00:00Z,Silicate (uM),4.737
+2021-11-15T08:00:00Z,Ammonium (uM),31.149
+2021-11-15T08:00:00Z,Nitrate (uM),0
 2021-11-15T08:00:00Z,pDA (ng/mL),0
 2021-11-15T08:00:00Z,Akashiwo_sanguinea (cells/L),1160
 2021-11-15T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -50911,10 +50911,10 @@ day,Variable,data_vals
 2021-11-22T08:00:00Z,Chlorophyll fluorescence (ug/L),1.7358404558404559
 2021-11-22T08:00:00Z,Salinity(1e-3),33.39393076923077
 2021-11-22T08:00:00Z,Chl-a extracted (ug/L),5.006
-2021-11-22T08:00:00Z,Phosphate (uM),NA
-2021-11-22T08:00:00Z,Silicate (uM),NA
-2021-11-22T08:00:00Z,Ammonium (uM),1.906
-2021-11-22T08:00:00Z,Nitrate (uM),NA
+2021-11-22T08:00:00Z,Phosphate (uM),0.292
+2021-11-22T08:00:00Z,Silicate (uM),4.689
+2021-11-22T08:00:00Z,Ammonium (uM),3.489
+2021-11-22T08:00:00Z,Nitrate (uM),0.324
 2021-11-22T08:00:00Z,pDA (ng/mL),0
 2021-11-22T08:00:00Z,Akashiwo_sanguinea (cells/L),0
 2021-11-22T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -51064,11 +51064,11 @@ day,Variable,data_vals
 2021-11-29T08:00:00Z,Temperature (Celcius),15.661389173789173
 2021-11-29T08:00:00Z,Chlorophyll fluorescence (ug/L),1.159954415954416
 2021-11-29T08:00:00Z,Salinity(1e-3),33.39517094017094
-2021-11-29T08:00:00Z,Chl-a extracted (ug/L),NA
-2021-11-29T08:00:00Z,Phosphate (uM),NA
-2021-11-29T08:00:00Z,Silicate (uM),NA
-2021-11-29T08:00:00Z,Ammonium (uM),1.906
-2021-11-29T08:00:00Z,Nitrate (uM),NA
+2021-11-29T08:00:00Z,Chl-a extracted (ug/L),2.699
+2021-11-29T08:00:00Z,Phosphate (uM),0.303
+2021-11-29T08:00:00Z,Silicate (uM),4.324
+2021-11-29T08:00:00Z,Ammonium (uM),27.669
+2021-11-29T08:00:00Z,Nitrate (uM),0.893
 2021-11-29T08:00:00Z,pDA (ng/mL),0
 2021-11-29T08:00:00Z,Akashiwo_sanguinea (cells/L),4340
 2021-11-29T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -51218,11 +51218,11 @@ day,Variable,data_vals
 2021-12-06T08:00:00Z,Temperature (Celcius),15.38473861111111
 2021-12-06T08:00:00Z,Chlorophyll fluorescence (ug/L),1.4159833333333334
 2021-12-06T08:00:00Z,Salinity(1e-3),33.389652777777776
-2021-12-06T08:00:00Z,Chl-a extracted (ug/L),NA
-2021-12-06T08:00:00Z,Phosphate (uM),NA
-2021-12-06T08:00:00Z,Silicate (uM),NA
-2021-12-06T08:00:00Z,Ammonium (uM),1.906
-2021-12-06T08:00:00Z,Nitrate (uM),NA
+2021-12-06T08:00:00Z,Chl-a extracted (ug/L),4.667
+2021-12-06T08:00:00Z,Phosphate (uM),0.467
+2021-12-06T08:00:00Z,Silicate (uM),5.817
+2021-12-06T08:00:00Z,Ammonium (uM),5.883
+2021-12-06T08:00:00Z,Nitrate (uM),1.457
 2021-12-06T08:00:00Z,pDA (ng/mL),0
 2021-12-06T08:00:00Z,Akashiwo_sanguinea (cells/L),2900
 2021-12-06T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -51350,11 +51350,11 @@ day,Variable,data_vals
 2021-12-12T08:00:00Z,Temperature (Celcius),14.620581944444444
 2021-12-12T08:00:00Z,Chlorophyll fluorescence (ug/L),2.1714055555555554
 2021-12-12T08:00:00Z,Salinity(1e-3),33.37215222222222
-2021-12-12T08:00:00Z,Chl-a extracted (ug/L),NA
-2021-12-12T08:00:00Z,Phosphate (uM),NA
-2021-12-12T08:00:00Z,Silicate (uM),NA
-2021-12-12T08:00:00Z,Ammonium (uM),1.906
-2021-12-12T08:00:00Z,Nitrate (uM),NA
+2021-12-12T08:00:00Z,Chl-a extracted (ug/L),3.532
+2021-12-12T08:00:00Z,Phosphate (uM),0.471
+2021-12-12T08:00:00Z,Silicate (uM),4.953
+2021-12-12T08:00:00Z,Ammonium (uM),11.759
+2021-12-12T08:00:00Z,Nitrate (uM),2.198
 2021-12-12T08:00:00Z,pDA (ng/mL),0
 2021-12-12T08:00:00Z,Akashiwo_sanguinea (cells/L),0
 2021-12-12T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -51393,7 +51393,7 @@ day,Variable,data_vals
 2021-12-13T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2021-12-14T08:00:00Z,Temperature (Celcius),14.367760623229461
 2021-12-14T08:00:00Z,Chlorophyll fluorescence (ug/L),3.3299263456090653
-2021-12-14T08:00:00Z,Salinity(1e-3),32.7241552407932
+2021-12-14T08:00:00Z,Salinity(1e-3),33.210244793437205
 2021-12-14T08:00:00Z,Chl-a extracted (ug/L),NA
 2021-12-14T08:00:00Z,Phosphate (uM),NA
 2021-12-14T08:00:00Z,Silicate (uM),NA
@@ -51504,11 +51504,11 @@ day,Variable,data_vals
 2021-12-19T08:00:00Z,Temperature (Celcius),14.092280501392757
 2021-12-19T08:00:00Z,Chlorophyll fluorescence (ug/L),8.755791086350975
 2021-12-19T08:00:00Z,Salinity(1e-3),33.26516685236769
-2021-12-19T08:00:00Z,Chl-a extracted (ug/L),NA
-2021-12-19T08:00:00Z,Phosphate (uM),NA
-2021-12-19T08:00:00Z,Silicate (uM),NA
-2021-12-19T08:00:00Z,Ammonium (uM),1.906
-2021-12-19T08:00:00Z,Nitrate (uM),NA
+2021-12-19T08:00:00Z,Chl-a extracted (ug/L),2.324
+2021-12-19T08:00:00Z,Phosphate (uM),0.402
+2021-12-19T08:00:00Z,Silicate (uM),4.889
+2021-12-19T08:00:00Z,Ammonium (uM),26.504
+2021-12-19T08:00:00Z,Nitrate (uM),1.356
 2021-12-19T08:00:00Z,pDA (ng/mL),0
 2021-12-19T08:00:00Z,Akashiwo_sanguinea (cells/L),580
 2021-12-19T08:00:00Z,Alexandrium_spp (cells/L),0
@@ -51591,7 +51591,7 @@ day,Variable,data_vals
 2021-12-22T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2021-12-23T08:00:00Z,Temperature (Celcius),13.916110619469027
 2021-12-23T08:00:00Z,Chlorophyll fluorescence (ug/L),12.72803539823009
-2021-12-23T08:00:00Z,Salinity(1e-3),32.96744103979307
+2021-12-23T08:00:00Z,Salinity(1e-3),33.20648415873016
 2021-12-23T08:00:00Z,Chl-a extracted (ug/L),NA
 2021-12-23T08:00:00Z,Phosphate (uM),NA
 2021-12-23T08:00:00Z,Silicate (uM),NA
@@ -51613,7 +51613,7 @@ day,Variable,data_vals
 2021-12-23T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2021-12-24T08:00:00Z,Temperature (Celcius),14.033175208913649
 2021-12-24T08:00:00Z,Chlorophyll fluorescence (ug/L),12.279612813370473
-2021-12-24T08:00:00Z,Salinity(1e-3),32.654485793871864
+2021-12-24T08:00:00Z,Salinity(1e-3),33.13257203174604
 2021-12-24T08:00:00Z,Chl-a extracted (ug/L),NA
 2021-12-24T08:00:00Z,Phosphate (uM),NA
 2021-12-24T08:00:00Z,Silicate (uM),NA
@@ -51635,7 +51635,7 @@ day,Variable,data_vals
 2021-12-24T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2021-12-25T08:00:00Z,Temperature (Celcius),14.00385
 2021-12-25T08:00:00Z,Chlorophyll fluorescence (ug/L),14.431794444444444
-2021-12-25T08:00:00Z,Salinity(1e-3),32.7647125
+2021-12-25T08:00:00Z,Salinity(1e-3),33.0586599047619
 2021-12-25T08:00:00Z,Chl-a extracted (ug/L),NA
 2021-12-25T08:00:00Z,Phosphate (uM),NA
 2021-12-25T08:00:00Z,Silicate (uM),NA
@@ -51812,11 +51812,11 @@ day,Variable,data_vals
 2022-01-02T08:00:00Z,Temperature (Celcius),13.209672980501393
 2022-01-02T08:00:00Z,Chlorophyll fluorescence (ug/L),40.24665181058496
 2022-01-02T08:00:00Z,Salinity(1e-3),32.93705069637883
-2022-01-02T08:00:00Z,Chl-a extracted (ug/L),NA
-2022-01-02T08:00:00Z,Phosphate (uM),NA
-2022-01-02T08:00:00Z,Silicate (uM),NA
-2022-01-02T08:00:00Z,Ammonium (uM),1.906
-2022-01-02T08:00:00Z,Nitrate (uM),NA
+2022-01-02T08:00:00Z,Chl-a extracted (ug/L),4.484
+2022-01-02T08:00:00Z,Phosphate (uM),0.587
+2022-01-02T08:00:00Z,Silicate (uM),6.881
+2022-01-02T08:00:00Z,Ammonium (uM),20.907
+2022-01-02T08:00:00Z,Nitrate (uM),3.827
 2022-01-02T08:00:00Z,pDA (ng/mL),0
 2022-01-02T08:00:00Z,Akashiwo_sanguinea (cells/L),4050
 2022-01-02T08:00:00Z,Alexandrium_spp (cells/L),1158
@@ -51855,7 +51855,7 @@ day,Variable,data_vals
 2022-01-03T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2022-01-04T08:00:00Z,Temperature (Celcius),13.132802528089888
 2022-01-04T08:00:00Z,Chlorophyll fluorescence (ug/L),21.5483595505618
-2022-01-04T08:00:00Z,Salinity(1e-3),32.70512808988764
+2022-01-04T08:00:00Z,Salinity(1e-3),32.79855685105593
 2022-01-04T08:00:00Z,Chl-a extracted (ug/L),NA
 2022-01-04T08:00:00Z,Phosphate (uM),NA
 2022-01-04T08:00:00Z,Silicate (uM),NA
@@ -51877,7 +51877,7 @@ day,Variable,data_vals
 2022-01-04T08:00:00Z,Total_Phytoplankton (cells/L),NA
 2022-01-05T08:00:00Z,Temperature (Celcius),13.325956901408452
 2022-01-05T08:00:00Z,Chlorophyll fluorescence (ug/L),5.1580957746478875
-2022-01-05T08:00:00Z,Salinity(1e-3),32.7741414084507
+2022-01-05T08:00:00Z,Salinity(1e-3),32.803918286639075
 2022-01-05T08:00:00Z,Chl-a extracted (ug/L),NA
 2022-01-05T08:00:00Z,Phosphate (uM),NA
 2022-01-05T08:00:00Z,Silicate (uM),NA
@@ -51988,12 +51988,12 @@ day,Variable,data_vals
 2022-01-10T08:00:00Z,Temperature (Celcius),13.448133333333333
 2022-01-10T08:00:00Z,Chlorophyll fluorescence (ug/L),6.929950877192982
 2022-01-10T08:00:00Z,Salinity(1e-3),33.035009824561406
-2022-01-10T08:00:00Z,Chl-a extracted (ug/L),NA
-2022-01-10T08:00:00Z,Phosphate (uM),NA
-2022-01-10T08:00:00Z,Silicate (uM),NA
-2022-01-10T08:00:00Z,Ammonium (uM),1.906
-2022-01-10T08:00:00Z,Nitrate (uM),NA
-2022-01-10T08:00:00Z,pDA (ng/mL),NA
+2022-01-10T08:00:00Z,Chl-a extracted (ug/L),0.565
+2022-01-10T08:00:00Z,Phosphate (uM),0.745
+2022-01-10T08:00:00Z,Silicate (uM),6.857
+2022-01-10T08:00:00Z,Ammonium (uM),6.895
+2022-01-10T08:00:00Z,Nitrate (uM),3.344
+2022-01-10T08:00:00Z,pDA (ng/mL),0
 2022-01-10T08:00:00Z,Akashiwo_sanguinea (cells/L),4050
 2022-01-10T08:00:00Z,Alexandrium_spp (cells/L),0
 2022-01-10T08:00:00Z,Dinophysis_spp (cells/L),0
@@ -52208,25 +52208,25 @@ day,Variable,data_vals
 2022-01-24T08:00:00Z,Temperature (Celcius),19.72105411764706
 2022-01-24T08:00:00Z,Chlorophyll fluorescence (ug/L),33.04588235294118
 2022-01-24T08:00:00Z,Salinity(1e-3),33.17189294117647
-2022-01-24T08:00:00Z,Chl-a extracted (ug/L),NA
-2022-01-24T08:00:00Z,Phosphate (uM),NA
-2022-01-24T08:00:00Z,Silicate (uM),NA
-2022-01-24T08:00:00Z,Ammonium (uM),NA
-2022-01-24T08:00:00Z,Nitrate (uM),NA
-2022-01-24T08:00:00Z,pDA (ng/mL),NA
-2022-01-24T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
-2022-01-24T08:00:00Z,Alexandrium_spp (cells/L),NA
-2022-01-24T08:00:00Z,Dinophysis_spp (cells/L),NA
-2022-01-24T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
-2022-01-24T08:00:00Z,Prorocentrum_spp (cells/L),NA
-2022-01-24T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
-2022-01-24T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
-2022-01-24T08:00:00Z,Ceratium (cells/L),NA
-2022-01-24T08:00:00Z,Cochlodinium (cells/L),NA
-2022-01-24T08:00:00Z,Gymnodinium_spp (cells/L),NA
-2022-01-24T08:00:00Z,Other_Diatoms (cells/L),NA
-2022-01-24T08:00:00Z,Other_Dinoflagellates (cells/L),NA
-2022-01-24T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-01-24T08:00:00Z,Chl-a extracted (ug/L),7.253
+2022-01-24T08:00:00Z,Phosphate (uM),0.806
+2022-01-24T08:00:00Z,Silicate (uM),8.02
+2022-01-24T08:00:00Z,Ammonium (uM),19.518
+2022-01-24T08:00:00Z,Nitrate (uM),1.583
+2022-01-24T08:00:00Z,pDA (ng/mL),0
+2022-01-24T08:00:00Z,Akashiwo_sanguinea (cells/L),29530
+2022-01-24T08:00:00Z,Alexandrium_spp (cells/L),0
+2022-01-24T08:00:00Z,Dinophysis_spp (cells/L),870
+2022-01-24T08:00:00Z,Lingulodinium_polyedra (cells/L),6950
+2022-01-24T08:00:00Z,Prorocentrum_spp (cells/L),580
+2022-01-24T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),0
+2022-01-24T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),0
+2022-01-24T08:00:00Z,Ceratium (cells/L),290
+2022-01-24T08:00:00Z,Cochlodinium (cells/L),0
+2022-01-24T08:00:00Z,Gymnodinium_spp (cells/L),0
+2022-01-24T08:00:00Z,Other_Diatoms (cells/L),290
+2022-01-24T08:00:00Z,Other_Dinoflagellates (cells/L),16500
+2022-01-24T08:00:00Z,Total_Phytoplankton (cells/L),55010
 2022-01-25T08:00:00Z,Temperature (Celcius),14.886018032786886
 2022-01-25T08:00:00Z,Chlorophyll fluorescence (ug/L),36.96532786885246
 2022-01-25T08:00:00Z,Salinity(1e-3),33.18520819672131
@@ -52315,3 +52315,1499 @@ day,Variable,data_vals
 2022-01-28T08:00:00Z,Other_Diatoms (cells/L),NA
 2022-01-28T08:00:00Z,Other_Dinoflagellates (cells/L),NA
 2022-01-28T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-02-25T08:00:00Z,Temperature (Celcius),12.740661212121212
+2022-02-25T08:00:00Z,Chlorophyll fluorescence (ug/L),1.1172727272727272
+2022-02-25T08:00:00Z,Salinity(1e-3),33.572714545454545
+2022-02-25T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-02-25T08:00:00Z,Phosphate (uM),NA
+2022-02-25T08:00:00Z,Silicate (uM),NA
+2022-02-25T08:00:00Z,Ammonium (uM),NA
+2022-02-25T08:00:00Z,Nitrate (uM),NA
+2022-02-25T08:00:00Z,pDA (ng/mL),NA
+2022-02-25T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-02-25T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-02-25T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-02-25T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-02-25T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-02-25T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-02-25T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-02-25T08:00:00Z,Ceratium (cells/L),NA
+2022-02-25T08:00:00Z,Cochlodinium (cells/L),NA
+2022-02-25T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-02-25T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-02-25T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-02-25T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-02-26T08:00:00Z,Temperature (Celcius),12.708821288515406
+2022-02-26T08:00:00Z,Chlorophyll fluorescence (ug/L),1.242795518207283
+2022-02-26T08:00:00Z,Salinity(1e-3),33.57885630252101
+2022-02-26T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-02-26T08:00:00Z,Phosphate (uM),NA
+2022-02-26T08:00:00Z,Silicate (uM),NA
+2022-02-26T08:00:00Z,Ammonium (uM),NA
+2022-02-26T08:00:00Z,Nitrate (uM),NA
+2022-02-26T08:00:00Z,pDA (ng/mL),NA
+2022-02-26T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-02-26T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-02-26T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-02-26T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-02-26T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-02-26T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-02-26T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-02-26T08:00:00Z,Ceratium (cells/L),NA
+2022-02-26T08:00:00Z,Cochlodinium (cells/L),NA
+2022-02-26T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-02-26T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-02-26T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-02-26T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-02-27T08:00:00Z,Temperature (Celcius),12.872847632311977
+2022-02-27T08:00:00Z,Chlorophyll fluorescence (ug/L),1.5654206128133705
+2022-02-27T08:00:00Z,Salinity(1e-3),33.58069582172702
+2022-02-27T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-02-27T08:00:00Z,Phosphate (uM),NA
+2022-02-27T08:00:00Z,Silicate (uM),NA
+2022-02-27T08:00:00Z,Ammonium (uM),NA
+2022-02-27T08:00:00Z,Nitrate (uM),NA
+2022-02-27T08:00:00Z,pDA (ng/mL),NA
+2022-02-27T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-02-27T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-02-27T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-02-27T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-02-27T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-02-27T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-02-27T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-02-27T08:00:00Z,Ceratium (cells/L),NA
+2022-02-27T08:00:00Z,Cochlodinium (cells/L),NA
+2022-02-27T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-02-27T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-02-27T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-02-27T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-02-28T08:00:00Z,Temperature (Celcius),13.12494297752809
+2022-02-28T08:00:00Z,Chlorophyll fluorescence (ug/L),2.096426966292135
+2022-02-28T08:00:00Z,Salinity(1e-3),33.578744943820226
+2022-02-28T08:00:00Z,Chl-a extracted (ug/L),4.011
+2022-02-28T08:00:00Z,Phosphate (uM),NA
+2022-02-28T08:00:00Z,Silicate (uM),NA
+2022-02-28T08:00:00Z,Ammonium (uM),0.305
+2022-02-28T08:00:00Z,Nitrate (uM),NA
+2022-02-28T08:00:00Z,pDA (ng/mL),0
+2022-02-28T08:00:00Z,Akashiwo_sanguinea (cells/L),0
+2022-02-28T08:00:00Z,Alexandrium_spp (cells/L),0
+2022-02-28T08:00:00Z,Dinophysis_spp (cells/L),580
+2022-02-28T08:00:00Z,Lingulodinium_polyedra (cells/L),0
+2022-02-28T08:00:00Z,Prorocentrum_spp (cells/L),580
+2022-02-28T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),11000
+2022-02-28T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),11580
+2022-02-28T08:00:00Z,Ceratium (cells/L),290
+2022-02-28T08:00:00Z,Cochlodinium (cells/L),0
+2022-02-28T08:00:00Z,Gymnodinium_spp (cells/L),0
+2022-02-28T08:00:00Z,Other_Diatoms (cells/L),171970
+2022-02-28T08:00:00Z,Other_Dinoflagellates (cells/L),4340
+2022-02-28T08:00:00Z,Total_Phytoplankton (cells/L),200340
+2022-03-01T08:00:00Z,Temperature (Celcius),13.330470254957508
+2022-03-01T08:00:00Z,Chlorophyll fluorescence (ug/L),2.269271954674221
+2022-03-01T08:00:00Z,Salinity(1e-3),33.573943342776204
+2022-03-01T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-01T08:00:00Z,Phosphate (uM),NA
+2022-03-01T08:00:00Z,Silicate (uM),NA
+2022-03-01T08:00:00Z,Ammonium (uM),NA
+2022-03-01T08:00:00Z,Nitrate (uM),NA
+2022-03-01T08:00:00Z,pDA (ng/mL),NA
+2022-03-01T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-01T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-01T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-01T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-01T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-01T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-01T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-01T08:00:00Z,Ceratium (cells/L),NA
+2022-03-01T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-01T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-01T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-01T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-01T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-02T08:00:00Z,Temperature (Celcius),13.534988169014085
+2022-03-02T08:00:00Z,Chlorophyll fluorescence (ug/L),1.757081690140845
+2022-03-02T08:00:00Z,Salinity(1e-3),33.56603971830986
+2022-03-02T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-02T08:00:00Z,Phosphate (uM),NA
+2022-03-02T08:00:00Z,Silicate (uM),NA
+2022-03-02T08:00:00Z,Ammonium (uM),NA
+2022-03-02T08:00:00Z,Nitrate (uM),NA
+2022-03-02T08:00:00Z,pDA (ng/mL),NA
+2022-03-02T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-02T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-02T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-02T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-02T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-02T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-02T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-02T08:00:00Z,Ceratium (cells/L),NA
+2022-03-02T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-02T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-02T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-02T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-02T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-03T08:00:00Z,Temperature (Celcius),13.746992222222222
+2022-03-03T08:00:00Z,Chlorophyll fluorescence (ug/L),1.56435
+2022-03-03T08:00:00Z,Salinity(1e-3),33.557432222222225
+2022-03-03T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-03T08:00:00Z,Phosphate (uM),NA
+2022-03-03T08:00:00Z,Silicate (uM),NA
+2022-03-03T08:00:00Z,Ammonium (uM),NA
+2022-03-03T08:00:00Z,Nitrate (uM),NA
+2022-03-03T08:00:00Z,pDA (ng/mL),NA
+2022-03-03T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-03T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-03T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-03T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-03T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-03T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-03T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-03T08:00:00Z,Ceratium (cells/L),NA
+2022-03-03T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-03T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-03T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-03T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-03T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-04T08:00:00Z,Temperature (Celcius),13.997335833333333
+2022-03-04T08:00:00Z,Chlorophyll fluorescence (ug/L),1.9190722222222223
+2022-03-04T08:00:00Z,Salinity(1e-3),33.55487
+2022-03-04T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-04T08:00:00Z,Phosphate (uM),NA
+2022-03-04T08:00:00Z,Silicate (uM),NA
+2022-03-04T08:00:00Z,Ammonium (uM),NA
+2022-03-04T08:00:00Z,Nitrate (uM),NA
+2022-03-04T08:00:00Z,pDA (ng/mL),NA
+2022-03-04T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-04T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-04T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-04T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-04T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-04T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-04T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-04T08:00:00Z,Ceratium (cells/L),NA
+2022-03-04T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-04T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-04T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-04T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-04T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-05T08:00:00Z,Temperature (Celcius),12.715715
+2022-03-05T08:00:00Z,Chlorophyll fluorescence (ug/L),1.1015305555555555
+2022-03-05T08:00:00Z,Salinity(1e-3),33.59330333333333
+2022-03-05T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-05T08:00:00Z,Phosphate (uM),NA
+2022-03-05T08:00:00Z,Silicate (uM),NA
+2022-03-05T08:00:00Z,Ammonium (uM),NA
+2022-03-05T08:00:00Z,Nitrate (uM),NA
+2022-03-05T08:00:00Z,pDA (ng/mL),NA
+2022-03-05T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-05T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-05T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-05T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-05T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-05T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-05T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-05T08:00:00Z,Ceratium (cells/L),NA
+2022-03-05T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-05T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-05T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-05T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-05T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-06T08:00:00Z,Temperature (Celcius),12.49714611111111
+2022-03-06T08:00:00Z,Chlorophyll fluorescence (ug/L),0.9681833333333333
+2022-03-06T08:00:00Z,Salinity(1e-3),33.61802111111111
+2022-03-06T08:00:00Z,Chl-a extracted (ug/L),0.368
+2022-03-06T08:00:00Z,Phosphate (uM),NA
+2022-03-06T08:00:00Z,Silicate (uM),NA
+2022-03-06T08:00:00Z,Ammonium (uM),0.305
+2022-03-06T08:00:00Z,Nitrate (uM),NA
+2022-03-06T08:00:00Z,pDA (ng/mL),NA
+2022-03-06T08:00:00Z,Akashiwo_sanguinea (cells/L),0
+2022-03-06T08:00:00Z,Alexandrium_spp (cells/L),0
+2022-03-06T08:00:00Z,Dinophysis_spp (cells/L),0
+2022-03-06T08:00:00Z,Lingulodinium_polyedra (cells/L),0
+2022-03-06T08:00:00Z,Prorocentrum_spp (cells/L),290
+2022-03-06T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),1160
+2022-03-06T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),290
+2022-03-06T08:00:00Z,Ceratium (cells/L),0
+2022-03-06T08:00:00Z,Cochlodinium (cells/L),0
+2022-03-06T08:00:00Z,Gymnodinium_spp (cells/L),0
+2022-03-06T08:00:00Z,Other_Diatoms (cells/L),2900
+2022-03-06T08:00:00Z,Other_Dinoflagellates (cells/L),3760
+2022-03-06T08:00:00Z,Total_Phytoplankton (cells/L),8400
+2022-03-07T08:00:00Z,Temperature (Celcius),12.538991388888888
+2022-03-07T08:00:00Z,Chlorophyll fluorescence (ug/L),1.007686111111111
+2022-03-07T08:00:00Z,Salinity(1e-3),33.62377611111111
+2022-03-07T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-07T08:00:00Z,Phosphate (uM),NA
+2022-03-07T08:00:00Z,Silicate (uM),NA
+2022-03-07T08:00:00Z,Ammonium (uM),NA
+2022-03-07T08:00:00Z,Nitrate (uM),NA
+2022-03-07T08:00:00Z,pDA (ng/mL),NA
+2022-03-07T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-07T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-07T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-07T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-07T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-07T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-07T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-07T08:00:00Z,Ceratium (cells/L),NA
+2022-03-07T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-07T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-07T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-07T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-07T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-08T08:00:00Z,Temperature (Celcius),12.606104456824513
+2022-03-08T08:00:00Z,Chlorophyll fluorescence (ug/L),1.1839944289693594
+2022-03-08T08:00:00Z,Salinity(1e-3),33.613134818941504
+2022-03-08T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-08T08:00:00Z,Phosphate (uM),NA
+2022-03-08T08:00:00Z,Silicate (uM),NA
+2022-03-08T08:00:00Z,Ammonium (uM),NA
+2022-03-08T08:00:00Z,Nitrate (uM),NA
+2022-03-08T08:00:00Z,pDA (ng/mL),NA
+2022-03-08T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-08T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-08T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-08T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-08T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-08T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-08T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-08T08:00:00Z,Ceratium (cells/L),NA
+2022-03-08T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-08T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-08T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-08T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-08T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-09T08:00:00Z,Temperature (Celcius),13.116066944444444
+2022-03-09T08:00:00Z,Chlorophyll fluorescence (ug/L),1.1776
+2022-03-09T08:00:00Z,Salinity(1e-3),33.607725277777774
+2022-03-09T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-09T08:00:00Z,Phosphate (uM),NA
+2022-03-09T08:00:00Z,Silicate (uM),NA
+2022-03-09T08:00:00Z,Ammonium (uM),NA
+2022-03-09T08:00:00Z,Nitrate (uM),NA
+2022-03-09T08:00:00Z,pDA (ng/mL),NA
+2022-03-09T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-09T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-09T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-09T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-09T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-09T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-09T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-09T08:00:00Z,Ceratium (cells/L),NA
+2022-03-09T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-09T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-09T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-09T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-09T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-10T08:00:00Z,Temperature (Celcius),13.44483138888889
+2022-03-10T08:00:00Z,Chlorophyll fluorescence (ug/L),1.4617
+2022-03-10T08:00:00Z,Salinity(1e-3),33.608894722222225
+2022-03-10T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-10T08:00:00Z,Phosphate (uM),NA
+2022-03-10T08:00:00Z,Silicate (uM),NA
+2022-03-10T08:00:00Z,Ammonium (uM),NA
+2022-03-10T08:00:00Z,Nitrate (uM),NA
+2022-03-10T08:00:00Z,pDA (ng/mL),NA
+2022-03-10T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-10T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-10T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-10T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-10T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-10T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-10T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-10T08:00:00Z,Ceratium (cells/L),NA
+2022-03-10T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-10T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-10T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-10T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-10T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-11T08:00:00Z,Temperature (Celcius),13.541891620111732
+2022-03-11T08:00:00Z,Chlorophyll fluorescence (ug/L),2.231567039106145
+2022-03-11T08:00:00Z,Salinity(1e-3),33.59586005586592
+2022-03-11T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-11T08:00:00Z,Phosphate (uM),NA
+2022-03-11T08:00:00Z,Silicate (uM),NA
+2022-03-11T08:00:00Z,Ammonium (uM),NA
+2022-03-11T08:00:00Z,Nitrate (uM),NA
+2022-03-11T08:00:00Z,pDA (ng/mL),NA
+2022-03-11T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-11T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-11T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-11T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-11T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-11T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-11T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-11T08:00:00Z,Ceratium (cells/L),NA
+2022-03-11T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-11T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-11T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-11T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-11T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-12T08:00:00Z,Temperature (Celcius),13.290432577903683
+2022-03-12T08:00:00Z,Chlorophyll fluorescence (ug/L),1.8568186968838527
+2022-03-12T08:00:00Z,Salinity(1e-3),33.59844730878187
+2022-03-12T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-12T08:00:00Z,Phosphate (uM),NA
+2022-03-12T08:00:00Z,Silicate (uM),NA
+2022-03-12T08:00:00Z,Ammonium (uM),NA
+2022-03-12T08:00:00Z,Nitrate (uM),NA
+2022-03-12T08:00:00Z,pDA (ng/mL),NA
+2022-03-12T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-12T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-12T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-12T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-12T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-12T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-12T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-12T08:00:00Z,Ceratium (cells/L),NA
+2022-03-12T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-12T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-12T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-12T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-12T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-13T08:00:00Z,Temperature (Celcius),13.886472753623188
+2022-03-13T08:00:00Z,Chlorophyll fluorescence (ug/L),1.8852521739130434
+2022-03-13T08:00:00Z,Salinity(1e-3),33.597801449275366
+2022-03-13T08:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-13T08:00:00Z,Phosphate (uM),NA
+2022-03-13T08:00:00Z,Silicate (uM),NA
+2022-03-13T08:00:00Z,Ammonium (uM),NA
+2022-03-13T08:00:00Z,Nitrate (uM),NA
+2022-03-13T08:00:00Z,pDA (ng/mL),NA
+2022-03-13T08:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-13T08:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-13T08:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-13T08:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-13T08:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-13T08:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-13T08:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-13T08:00:00Z,Ceratium (cells/L),NA
+2022-03-13T08:00:00Z,Cochlodinium (cells/L),NA
+2022-03-13T08:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-13T08:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-13T08:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-13T08:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-14T07:00:00Z,Temperature (Celcius),14.185756111111111
+2022-03-14T07:00:00Z,Chlorophyll fluorescence (ug/L),2.05205
+2022-03-14T07:00:00Z,Salinity(1e-3),33.59697194444445
+2022-03-14T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-14T07:00:00Z,Phosphate (uM),NA
+2022-03-14T07:00:00Z,Silicate (uM),NA
+2022-03-14T07:00:00Z,Ammonium (uM),NA
+2022-03-14T07:00:00Z,Nitrate (uM),NA
+2022-03-14T07:00:00Z,pDA (ng/mL),NA
+2022-03-14T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-14T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-14T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-14T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-14T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-14T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-14T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-14T07:00:00Z,Ceratium (cells/L),NA
+2022-03-14T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-14T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-14T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-14T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-14T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-15T07:00:00Z,Temperature (Celcius),14.717955742296919
+2022-03-15T07:00:00Z,Chlorophyll fluorescence (ug/L),2.4398991596638657
+2022-03-15T07:00:00Z,Salinity(1e-3),33.59871680672269
+2022-03-15T07:00:00Z,Chl-a extracted (ug/L),6.374
+2022-03-15T07:00:00Z,Phosphate (uM),NA
+2022-03-15T07:00:00Z,Silicate (uM),NA
+2022-03-15T07:00:00Z,Ammonium (uM),0.305
+2022-03-15T07:00:00Z,Nitrate (uM),NA
+2022-03-15T07:00:00Z,pDA (ng/mL),NA
+2022-03-15T07:00:00Z,Akashiwo_sanguinea (cells/L),2030
+2022-03-15T07:00:00Z,Alexandrium_spp (cells/L),0
+2022-03-15T07:00:00Z,Dinophysis_spp (cells/L),0
+2022-03-15T07:00:00Z,Lingulodinium_polyedra (cells/L),45740
+2022-03-15T07:00:00Z,Prorocentrum_spp (cells/L),11000
+2022-03-15T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),4050
+2022-03-15T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),4340
+2022-03-15T07:00:00Z,Ceratium (cells/L),1740
+2022-03-15T07:00:00Z,Cochlodinium (cells/L),0
+2022-03-15T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-03-15T07:00:00Z,Other_Diatoms (cells/L),54140
+2022-03-15T07:00:00Z,Other_Dinoflagellates (cells/L),31850
+2022-03-15T07:00:00Z,Total_Phytoplankton (cells/L),154890
+2022-03-16T07:00:00Z,Temperature (Celcius),14.4810575
+2022-03-16T07:00:00Z,Chlorophyll fluorescence (ug/L),2.412625
+2022-03-16T07:00:00Z,Salinity(1e-3),33.604731111111114
+2022-03-16T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-16T07:00:00Z,Phosphate (uM),NA
+2022-03-16T07:00:00Z,Silicate (uM),NA
+2022-03-16T07:00:00Z,Ammonium (uM),NA
+2022-03-16T07:00:00Z,Nitrate (uM),NA
+2022-03-16T07:00:00Z,pDA (ng/mL),NA
+2022-03-16T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-16T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-16T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-16T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-16T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-16T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-16T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-16T07:00:00Z,Ceratium (cells/L),NA
+2022-03-16T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-16T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-16T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-16T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-16T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-17T07:00:00Z,Temperature (Celcius),14.119916949152543
+2022-03-17T07:00:00Z,Chlorophyll fluorescence (ug/L),2.701446327683616
+2022-03-17T07:00:00Z,Salinity(1e-3),33.60700734463277
+2022-03-17T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-17T07:00:00Z,Phosphate (uM),NA
+2022-03-17T07:00:00Z,Silicate (uM),NA
+2022-03-17T07:00:00Z,Ammonium (uM),NA
+2022-03-17T07:00:00Z,Nitrate (uM),NA
+2022-03-17T07:00:00Z,pDA (ng/mL),NA
+2022-03-17T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-17T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-17T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-17T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-17T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-17T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-17T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-17T07:00:00Z,Ceratium (cells/L),NA
+2022-03-17T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-17T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-17T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-17T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-17T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-18T07:00:00Z,Temperature (Celcius),14.678529329608939
+2022-03-18T07:00:00Z,Chlorophyll fluorescence (ug/L),2.3302290502793297
+2022-03-18T07:00:00Z,Salinity(1e-3),33.604563687150836
+2022-03-18T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-18T07:00:00Z,Phosphate (uM),NA
+2022-03-18T07:00:00Z,Silicate (uM),NA
+2022-03-18T07:00:00Z,Ammonium (uM),NA
+2022-03-18T07:00:00Z,Nitrate (uM),NA
+2022-03-18T07:00:00Z,pDA (ng/mL),NA
+2022-03-18T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-18T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-18T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-18T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-18T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-18T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-18T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-18T07:00:00Z,Ceratium (cells/L),NA
+2022-03-18T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-18T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-18T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-18T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-18T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-19T07:00:00Z,Temperature (Celcius),15.022291666666666
+2022-03-19T07:00:00Z,Chlorophyll fluorescence (ug/L),2.244125
+2022-03-19T07:00:00Z,Salinity(1e-3),33.60181527777778
+2022-03-19T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-19T07:00:00Z,Phosphate (uM),NA
+2022-03-19T07:00:00Z,Silicate (uM),NA
+2022-03-19T07:00:00Z,Ammonium (uM),NA
+2022-03-19T07:00:00Z,Nitrate (uM),NA
+2022-03-19T07:00:00Z,pDA (ng/mL),NA
+2022-03-19T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-19T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-19T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-19T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-19T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-19T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-19T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-19T07:00:00Z,Ceratium (cells/L),NA
+2022-03-19T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-19T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-19T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-19T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-19T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-20T07:00:00Z,Temperature (Celcius),13.248405
+2022-03-20T07:00:00Z,Chlorophyll fluorescence (ug/L),1.7341277777777777
+2022-03-20T07:00:00Z,Salinity(1e-3),33.62182277777778
+2022-03-20T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-20T07:00:00Z,Phosphate (uM),NA
+2022-03-20T07:00:00Z,Silicate (uM),NA
+2022-03-20T07:00:00Z,Ammonium (uM),NA
+2022-03-20T07:00:00Z,Nitrate (uM),NA
+2022-03-20T07:00:00Z,pDA (ng/mL),NA
+2022-03-20T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-20T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-20T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-20T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-20T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-20T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-20T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-20T07:00:00Z,Ceratium (cells/L),NA
+2022-03-20T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-20T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-20T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-20T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-20T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-21T07:00:00Z,Temperature (Celcius),12.7586075
+2022-03-21T07:00:00Z,Chlorophyll fluorescence (ug/L),1.3605277777777778
+2022-03-21T07:00:00Z,Salinity(1e-3),33.65112222222222
+2022-03-21T07:00:00Z,Chl-a extracted (ug/L),0.714
+2022-03-21T07:00:00Z,Phosphate (uM),NA
+2022-03-21T07:00:00Z,Silicate (uM),NA
+2022-03-21T07:00:00Z,Ammonium (uM),0.305
+2022-03-21T07:00:00Z,Nitrate (uM),NA
+2022-03-21T07:00:00Z,pDA (ng/mL),NA
+2022-03-21T07:00:00Z,Akashiwo_sanguinea (cells/L),870
+2022-03-21T07:00:00Z,Alexandrium_spp (cells/L),0
+2022-03-21T07:00:00Z,Dinophysis_spp (cells/L),0
+2022-03-21T07:00:00Z,Lingulodinium_polyedra (cells/L),1160
+2022-03-21T07:00:00Z,Prorocentrum_spp (cells/L),290
+2022-03-21T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),580
+2022-03-21T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),1740
+2022-03-21T07:00:00Z,Ceratium (cells/L),290
+2022-03-21T07:00:00Z,Cochlodinium (cells/L),0
+2022-03-21T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-03-21T07:00:00Z,Other_Diatoms (cells/L),4340
+2022-03-21T07:00:00Z,Other_Dinoflagellates (cells/L),6370
+2022-03-21T07:00:00Z,Total_Phytoplankton (cells/L),14770
+2022-03-22T07:00:00Z,Temperature (Celcius),13.192212146892656
+2022-03-22T07:00:00Z,Chlorophyll fluorescence (ug/L),1.8553079096045197
+2022-03-22T07:00:00Z,Salinity(1e-3),33.64970564971751
+2022-03-22T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-22T07:00:00Z,Phosphate (uM),NA
+2022-03-22T07:00:00Z,Silicate (uM),NA
+2022-03-22T07:00:00Z,Ammonium (uM),NA
+2022-03-22T07:00:00Z,Nitrate (uM),NA
+2022-03-22T07:00:00Z,pDA (ng/mL),NA
+2022-03-22T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-22T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-22T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-22T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-22T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-22T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-22T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-22T07:00:00Z,Ceratium (cells/L),NA
+2022-03-22T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-22T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-22T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-22T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-22T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-23T07:00:00Z,Temperature (Celcius),13.21061713483146
+2022-03-23T07:00:00Z,Chlorophyll fluorescence (ug/L),3.596331460674157
+2022-03-23T07:00:00Z,Salinity(1e-3),33.661001123595504
+2022-03-23T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-23T07:00:00Z,Phosphate (uM),NA
+2022-03-23T07:00:00Z,Silicate (uM),NA
+2022-03-23T07:00:00Z,Ammonium (uM),NA
+2022-03-23T07:00:00Z,Nitrate (uM),NA
+2022-03-23T07:00:00Z,pDA (ng/mL),NA
+2022-03-23T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-23T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-23T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-23T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-23T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-23T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-23T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-23T07:00:00Z,Ceratium (cells/L),NA
+2022-03-23T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-23T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-23T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-23T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-23T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-24T07:00:00Z,Temperature (Celcius),13.642821082621083
+2022-03-24T07:00:00Z,Chlorophyll fluorescence (ug/L),3.7855470085470087
+2022-03-24T07:00:00Z,Salinity(1e-3),33.65642592592592
+2022-03-24T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-24T07:00:00Z,Phosphate (uM),NA
+2022-03-24T07:00:00Z,Silicate (uM),NA
+2022-03-24T07:00:00Z,Ammonium (uM),NA
+2022-03-24T07:00:00Z,Nitrate (uM),NA
+2022-03-24T07:00:00Z,pDA (ng/mL),NA
+2022-03-24T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-24T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-24T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-24T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-24T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-24T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-24T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-24T07:00:00Z,Ceratium (cells/L),NA
+2022-03-24T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-24T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-24T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-24T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-24T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-25T07:00:00Z,Temperature (Celcius),13.52043163841808
+2022-03-25T07:00:00Z,Chlorophyll fluorescence (ug/L),3.65819209039548
+2022-03-25T07:00:00Z,Salinity(1e-3),33.65487259887006
+2022-03-25T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-25T07:00:00Z,Phosphate (uM),NA
+2022-03-25T07:00:00Z,Silicate (uM),NA
+2022-03-25T07:00:00Z,Ammonium (uM),NA
+2022-03-25T07:00:00Z,Nitrate (uM),NA
+2022-03-25T07:00:00Z,pDA (ng/mL),NA
+2022-03-25T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-25T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-25T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-25T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-25T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-25T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-25T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-25T07:00:00Z,Ceratium (cells/L),NA
+2022-03-25T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-25T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-25T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-25T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-25T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-26T07:00:00Z,Temperature (Celcius),13.37498888888889
+2022-03-26T07:00:00Z,Chlorophyll fluorescence (ug/L),4.1644861111111116
+2022-03-26T07:00:00Z,Salinity(1e-3),33.646525555555556
+2022-03-26T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-26T07:00:00Z,Phosphate (uM),NA
+2022-03-26T07:00:00Z,Silicate (uM),NA
+2022-03-26T07:00:00Z,Ammonium (uM),NA
+2022-03-26T07:00:00Z,Nitrate (uM),NA
+2022-03-26T07:00:00Z,pDA (ng/mL),NA
+2022-03-26T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-26T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-26T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-26T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-26T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-26T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-26T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-26T07:00:00Z,Ceratium (cells/L),NA
+2022-03-26T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-26T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-26T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-26T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-26T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-27T07:00:00Z,Temperature (Celcius),13.623297222222222
+2022-03-27T07:00:00Z,Chlorophyll fluorescence (ug/L),8.628852777777778
+2022-03-27T07:00:00Z,Salinity(1e-3),33.639115
+2022-03-27T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-27T07:00:00Z,Phosphate (uM),NA
+2022-03-27T07:00:00Z,Silicate (uM),NA
+2022-03-27T07:00:00Z,Ammonium (uM),NA
+2022-03-27T07:00:00Z,Nitrate (uM),NA
+2022-03-27T07:00:00Z,pDA (ng/mL),NA
+2022-03-27T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-27T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-27T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-27T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-27T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-27T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-27T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-27T07:00:00Z,Ceratium (cells/L),NA
+2022-03-27T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-27T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-27T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-27T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-27T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-28T07:00:00Z,Temperature (Celcius),14.200136111111112
+2022-03-28T07:00:00Z,Chlorophyll fluorescence (ug/L),10.754541666666666
+2022-03-28T07:00:00Z,Salinity(1e-3),33.126779722222224
+2022-03-28T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-28T07:00:00Z,Phosphate (uM),NA
+2022-03-28T07:00:00Z,Silicate (uM),NA
+2022-03-28T07:00:00Z,Ammonium (uM),NA
+2022-03-28T07:00:00Z,Nitrate (uM),NA
+2022-03-28T07:00:00Z,pDA (ng/mL),NA
+2022-03-28T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-28T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-28T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-28T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-28T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-28T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-28T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-28T07:00:00Z,Ceratium (cells/L),NA
+2022-03-28T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-28T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-28T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-28T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-28T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-29T07:00:00Z,Temperature (Celcius),14.206640833333333
+2022-03-29T07:00:00Z,Chlorophyll fluorescence (ug/L),9.411647222222221
+2022-03-29T07:00:00Z,Salinity(1e-3),33.32488083333333
+2022-03-29T07:00:00Z,Chl-a extracted (ug/L),17.802
+2022-03-29T07:00:00Z,Phosphate (uM),NA
+2022-03-29T07:00:00Z,Silicate (uM),NA
+2022-03-29T07:00:00Z,Ammonium (uM),0.305
+2022-03-29T07:00:00Z,Nitrate (uM),NA
+2022-03-29T07:00:00Z,pDA (ng/mL),NA
+2022-03-29T07:00:00Z,Akashiwo_sanguinea (cells/L),69770
+2022-03-29T07:00:00Z,Alexandrium_spp (cells/L),0
+2022-03-29T07:00:00Z,Dinophysis_spp (cells/L),580
+2022-03-29T07:00:00Z,Lingulodinium_polyedra (cells/L),0
+2022-03-29T07:00:00Z,Prorocentrum_spp (cells/L),1160
+2022-03-29T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),1740
+2022-03-29T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),12160
+2022-03-29T07:00:00Z,Ceratium (cells/L),2900
+2022-03-29T07:00:00Z,Cochlodinium (cells/L),0
+2022-03-29T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-03-29T07:00:00Z,Other_Diatoms (cells/L),310930
+2022-03-29T07:00:00Z,Other_Dinoflagellates (cells/L),11870
+2022-03-29T07:00:00Z,Total_Phytoplankton (cells/L),340760
+2022-03-30T07:00:00Z,Temperature (Celcius),14.446792222222221
+2022-03-30T07:00:00Z,Chlorophyll fluorescence (ug/L),14.582741666666667
+2022-03-30T07:00:00Z,Salinity(1e-3),33.42310055555556
+2022-03-30T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-30T07:00:00Z,Phosphate (uM),NA
+2022-03-30T07:00:00Z,Silicate (uM),NA
+2022-03-30T07:00:00Z,Ammonium (uM),NA
+2022-03-30T07:00:00Z,Nitrate (uM),NA
+2022-03-30T07:00:00Z,pDA (ng/mL),NA
+2022-03-30T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-30T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-30T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-30T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-30T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-30T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-30T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-30T07:00:00Z,Ceratium (cells/L),NA
+2022-03-30T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-30T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-30T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-30T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-30T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-03-31T07:00:00Z,Temperature (Celcius),14.745435277777778
+2022-03-31T07:00:00Z,Chlorophyll fluorescence (ug/L),23.425716666666666
+2022-03-31T07:00:00Z,Salinity(1e-3),33.4490875
+2022-03-31T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-03-31T07:00:00Z,Phosphate (uM),NA
+2022-03-31T07:00:00Z,Silicate (uM),NA
+2022-03-31T07:00:00Z,Ammonium (uM),NA
+2022-03-31T07:00:00Z,Nitrate (uM),NA
+2022-03-31T07:00:00Z,pDA (ng/mL),NA
+2022-03-31T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-03-31T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-03-31T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-03-31T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-03-31T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-03-31T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-03-31T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-03-31T07:00:00Z,Ceratium (cells/L),NA
+2022-03-31T07:00:00Z,Cochlodinium (cells/L),NA
+2022-03-31T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-03-31T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-03-31T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-03-31T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-01T07:00:00Z,Temperature (Celcius),14.75243
+2022-04-01T07:00:00Z,Chlorophyll fluorescence (ug/L),32.83873888888889
+2022-04-01T07:00:00Z,Salinity(1e-3),33.47228444444445
+2022-04-01T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-01T07:00:00Z,Phosphate (uM),NA
+2022-04-01T07:00:00Z,Silicate (uM),NA
+2022-04-01T07:00:00Z,Ammonium (uM),NA
+2022-04-01T07:00:00Z,Nitrate (uM),NA
+2022-04-01T07:00:00Z,pDA (ng/mL),NA
+2022-04-01T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-01T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-01T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-01T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-01T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-01T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-01T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-01T07:00:00Z,Ceratium (cells/L),NA
+2022-04-01T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-01T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-01T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-01T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-01T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-02T07:00:00Z,Temperature (Celcius),14.781799166666667
+2022-04-02T07:00:00Z,Chlorophyll fluorescence (ug/L),38.69156666666667
+2022-04-02T07:00:00Z,Salinity(1e-3),33.488663611111114
+2022-04-02T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-02T07:00:00Z,Phosphate (uM),NA
+2022-04-02T07:00:00Z,Silicate (uM),NA
+2022-04-02T07:00:00Z,Ammonium (uM),NA
+2022-04-02T07:00:00Z,Nitrate (uM),NA
+2022-04-02T07:00:00Z,pDA (ng/mL),NA
+2022-04-02T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-02T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-02T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-02T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-02T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-02T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-02T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-02T07:00:00Z,Ceratium (cells/L),NA
+2022-04-02T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-02T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-02T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-02T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-02T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-03T07:00:00Z,Temperature (Celcius),14.526927777777777
+2022-04-03T07:00:00Z,Chlorophyll fluorescence (ug/L),45.649325
+2022-04-03T07:00:00Z,Salinity(1e-3),33.534303055555554
+2022-04-03T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-03T07:00:00Z,Phosphate (uM),NA
+2022-04-03T07:00:00Z,Silicate (uM),NA
+2022-04-03T07:00:00Z,Ammonium (uM),0.305
+2022-04-03T07:00:00Z,Nitrate (uM),NA
+2022-04-03T07:00:00Z,pDA (ng/mL),NA
+2022-04-03T07:00:00Z,Akashiwo_sanguinea (cells/L),9840
+2022-04-03T07:00:00Z,Alexandrium_spp (cells/L),0
+2022-04-03T07:00:00Z,Dinophysis_spp (cells/L),290
+2022-04-03T07:00:00Z,Lingulodinium_polyedra (cells/L),15920
+2022-04-03T07:00:00Z,Prorocentrum_spp (cells/L),7820
+2022-04-03T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),6080
+2022-04-03T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),2900
+2022-04-03T07:00:00Z,Ceratium (cells/L),4050
+2022-04-03T07:00:00Z,Cochlodinium (cells/L),0
+2022-04-03T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-04-03T07:00:00Z,Other_Diatoms (cells/L),80190
+2022-04-03T07:00:00Z,Other_Dinoflagellates (cells/L),14760
+2022-04-03T07:00:00Z,Total_Phytoplankton (cells/L),131720
+2022-04-04T07:00:00Z,Temperature (Celcius),14.729771111111111
+2022-04-04T07:00:00Z,Chlorophyll fluorescence (ug/L),49.94127777777778
+2022-04-04T07:00:00Z,Salinity(1e-3),33.546439166666666
+2022-04-04T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-04T07:00:00Z,Phosphate (uM),NA
+2022-04-04T07:00:00Z,Silicate (uM),NA
+2022-04-04T07:00:00Z,Ammonium (uM),NA
+2022-04-04T07:00:00Z,Nitrate (uM),NA
+2022-04-04T07:00:00Z,pDA (ng/mL),NA
+2022-04-04T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-04T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-04T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-04T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-04T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-04T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-04T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-04T07:00:00Z,Ceratium (cells/L),NA
+2022-04-04T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-04T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-04T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-04T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-04T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-05T07:00:00Z,Temperature (Celcius),15.318095555555555
+2022-04-05T07:00:00Z,Chlorophyll fluorescence (ug/L),50
+2022-04-05T07:00:00Z,Salinity(1e-3),33.55927361111111
+2022-04-05T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-05T07:00:00Z,Phosphate (uM),NA
+2022-04-05T07:00:00Z,Silicate (uM),NA
+2022-04-05T07:00:00Z,Ammonium (uM),NA
+2022-04-05T07:00:00Z,Nitrate (uM),NA
+2022-04-05T07:00:00Z,pDA (ng/mL),NA
+2022-04-05T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-05T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-05T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-05T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-05T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-05T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-05T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-05T07:00:00Z,Ceratium (cells/L),NA
+2022-04-05T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-05T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-05T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-05T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-05T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-06T07:00:00Z,Temperature (Celcius),15.33918888888889
+2022-04-06T07:00:00Z,Chlorophyll fluorescence (ug/L),49.90122222222222
+2022-04-06T07:00:00Z,Salinity(1e-3),33.557454166666666
+2022-04-06T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-06T07:00:00Z,Phosphate (uM),NA
+2022-04-06T07:00:00Z,Silicate (uM),NA
+2022-04-06T07:00:00Z,Ammonium (uM),NA
+2022-04-06T07:00:00Z,Nitrate (uM),NA
+2022-04-06T07:00:00Z,pDA (ng/mL),NA
+2022-04-06T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-06T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-06T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-06T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-06T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-06T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-06T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-06T07:00:00Z,Ceratium (cells/L),NA
+2022-04-06T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-06T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-06T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-06T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-06T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-07T07:00:00Z,Temperature (Celcius),16.178836811594202
+2022-04-07T07:00:00Z,Chlorophyll fluorescence (ug/L),44.01377971014493
+2022-04-07T07:00:00Z,Salinity(1e-3),33.553239420289856
+2022-04-07T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-07T07:00:00Z,Phosphate (uM),NA
+2022-04-07T07:00:00Z,Silicate (uM),NA
+2022-04-07T07:00:00Z,Ammonium (uM),NA
+2022-04-07T07:00:00Z,Nitrate (uM),NA
+2022-04-07T07:00:00Z,pDA (ng/mL),NA
+2022-04-07T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-07T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-07T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-07T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-07T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-07T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-07T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-07T07:00:00Z,Ceratium (cells/L),NA
+2022-04-07T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-07T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-07T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-07T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-07T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-08T07:00:00Z,Temperature (Celcius),15.798038440111421
+2022-04-08T07:00:00Z,Chlorophyll fluorescence (ug/L),15.254072423398329
+2022-04-08T07:00:00Z,Salinity(1e-3),33.515983286908074
+2022-04-08T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-08T07:00:00Z,Phosphate (uM),NA
+2022-04-08T07:00:00Z,Silicate (uM),NA
+2022-04-08T07:00:00Z,Ammonium (uM),NA
+2022-04-08T07:00:00Z,Nitrate (uM),NA
+2022-04-08T07:00:00Z,pDA (ng/mL),NA
+2022-04-08T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-08T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-08T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-08T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-08T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-08T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-08T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-08T07:00:00Z,Ceratium (cells/L),NA
+2022-04-08T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-08T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-08T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-08T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-08T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-09T07:00:00Z,Temperature (Celcius),16.29222849162011
+2022-04-09T07:00:00Z,Chlorophyll fluorescence (ug/L),2.386776536312849
+2022-04-09T07:00:00Z,Salinity(1e-3),33.55068044692737
+2022-04-09T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-09T07:00:00Z,Phosphate (uM),NA
+2022-04-09T07:00:00Z,Silicate (uM),NA
+2022-04-09T07:00:00Z,Ammonium (uM),NA
+2022-04-09T07:00:00Z,Nitrate (uM),NA
+2022-04-09T07:00:00Z,pDA (ng/mL),NA
+2022-04-09T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-09T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-09T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-09T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-09T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-09T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-09T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-09T07:00:00Z,Ceratium (cells/L),NA
+2022-04-09T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-09T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-09T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-09T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-09T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-10T07:00:00Z,Temperature (Celcius),16.815721114369502
+2022-04-10T07:00:00Z,Chlorophyll fluorescence (ug/L),1.4780469208211144
+2022-04-10T07:00:00Z,Salinity(1e-3),33.55018797653959
+2022-04-10T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-10T07:00:00Z,Phosphate (uM),NA
+2022-04-10T07:00:00Z,Silicate (uM),NA
+2022-04-10T07:00:00Z,Ammonium (uM),NA
+2022-04-10T07:00:00Z,Nitrate (uM),NA
+2022-04-10T07:00:00Z,pDA (ng/mL),NA
+2022-04-10T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-10T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-10T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-10T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-10T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-10T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-10T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-10T07:00:00Z,Ceratium (cells/L),NA
+2022-04-10T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-10T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-10T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-10T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-10T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-11T07:00:00Z,Temperature (Celcius),15.508166666666666
+2022-04-11T07:00:00Z,Chlorophyll fluorescence (ug/L),1.6976833333333334
+2022-04-11T07:00:00Z,Salinity(1e-3),33.568888888888885
+2022-04-11T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-11T07:00:00Z,Phosphate (uM),NA
+2022-04-11T07:00:00Z,Silicate (uM),NA
+2022-04-11T07:00:00Z,Ammonium (uM),0.305
+2022-04-11T07:00:00Z,Nitrate (uM),NA
+2022-04-11T07:00:00Z,pDA (ng/mL),NA
+2022-04-11T07:00:00Z,Akashiwo_sanguinea (cells/L),5500
+2022-04-11T07:00:00Z,Alexandrium_spp (cells/L),580
+2022-04-11T07:00:00Z,Dinophysis_spp (cells/L),290
+2022-04-11T07:00:00Z,Lingulodinium_polyedra (cells/L),8970
+2022-04-11T07:00:00Z,Prorocentrum_spp (cells/L),2900
+2022-04-11T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),580
+2022-04-11T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),3470
+2022-04-11T07:00:00Z,Ceratium (cells/L),580
+2022-04-11T07:00:00Z,Cochlodinium (cells/L),0
+2022-04-11T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-04-11T07:00:00Z,Other_Diatoms (cells/L),1740
+2022-04-11T07:00:00Z,Other_Dinoflagellates (cells/L),15630
+2022-04-11T07:00:00Z,Total_Phytoplankton (cells/L),33870
+2022-04-12T07:00:00Z,Temperature (Celcius),12.927065459610027
+2022-04-12T07:00:00Z,Chlorophyll fluorescence (ug/L),1.8723286908077994
+2022-04-12T07:00:00Z,Salinity(1e-3),33.63358050139276
+2022-04-12T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-12T07:00:00Z,Phosphate (uM),NA
+2022-04-12T07:00:00Z,Silicate (uM),NA
+2022-04-12T07:00:00Z,Ammonium (uM),NA
+2022-04-12T07:00:00Z,Nitrate (uM),NA
+2022-04-12T07:00:00Z,pDA (ng/mL),NA
+2022-04-12T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-12T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-12T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-12T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-12T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-12T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-12T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-12T07:00:00Z,Ceratium (cells/L),NA
+2022-04-12T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-12T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-12T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-12T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-12T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-13T07:00:00Z,Temperature (Celcius),13.028439722222222
+2022-04-13T07:00:00Z,Chlorophyll fluorescence (ug/L),1.900411111111111
+2022-04-13T07:00:00Z,Salinity(1e-3),33.64534555555556
+2022-04-13T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-13T07:00:00Z,Phosphate (uM),NA
+2022-04-13T07:00:00Z,Silicate (uM),NA
+2022-04-13T07:00:00Z,Ammonium (uM),NA
+2022-04-13T07:00:00Z,Nitrate (uM),NA
+2022-04-13T07:00:00Z,pDA (ng/mL),NA
+2022-04-13T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-13T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-13T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-13T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-13T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-13T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-13T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-13T07:00:00Z,Ceratium (cells/L),NA
+2022-04-13T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-13T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-13T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-13T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-13T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-14T07:00:00Z,Temperature (Celcius),13.731581666666667
+2022-04-14T07:00:00Z,Chlorophyll fluorescence (ug/L),1.4807583333333334
+2022-04-14T07:00:00Z,Salinity(1e-3),33.63677361111111
+2022-04-14T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-14T07:00:00Z,Phosphate (uM),NA
+2022-04-14T07:00:00Z,Silicate (uM),NA
+2022-04-14T07:00:00Z,Ammonium (uM),NA
+2022-04-14T07:00:00Z,Nitrate (uM),NA
+2022-04-14T07:00:00Z,pDA (ng/mL),NA
+2022-04-14T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-14T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-14T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-14T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-14T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-14T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-14T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-14T07:00:00Z,Ceratium (cells/L),NA
+2022-04-14T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-14T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-14T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-14T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-14T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-15T07:00:00Z,Temperature (Celcius),14.930648055555556
+2022-04-15T07:00:00Z,Chlorophyll fluorescence (ug/L),2.350722222222222
+2022-04-15T07:00:00Z,Salinity(1e-3),33.580999722222224
+2022-04-15T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-15T07:00:00Z,Phosphate (uM),NA
+2022-04-15T07:00:00Z,Silicate (uM),NA
+2022-04-15T07:00:00Z,Ammonium (uM),NA
+2022-04-15T07:00:00Z,Nitrate (uM),NA
+2022-04-15T07:00:00Z,pDA (ng/mL),NA
+2022-04-15T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-15T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-15T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-15T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-15T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-15T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-15T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-15T07:00:00Z,Ceratium (cells/L),NA
+2022-04-15T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-15T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-15T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-15T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-15T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-16T07:00:00Z,Temperature (Celcius),14.860287777777778
+2022-04-16T07:00:00Z,Chlorophyll fluorescence (ug/L),3.1812388888888887
+2022-04-16T07:00:00Z,Salinity(1e-3),33.61334611111111
+2022-04-16T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-16T07:00:00Z,Phosphate (uM),NA
+2022-04-16T07:00:00Z,Silicate (uM),NA
+2022-04-16T07:00:00Z,Ammonium (uM),NA
+2022-04-16T07:00:00Z,Nitrate (uM),NA
+2022-04-16T07:00:00Z,pDA (ng/mL),NA
+2022-04-16T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-16T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-16T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-16T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-16T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-16T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-16T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-16T07:00:00Z,Ceratium (cells/L),NA
+2022-04-16T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-16T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-16T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-16T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-16T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-17T07:00:00Z,Temperature (Celcius),14.358785555555556
+2022-04-17T07:00:00Z,Chlorophyll fluorescence (ug/L),2.5857527777777776
+2022-04-17T07:00:00Z,Salinity(1e-3),33.62346111111111
+2022-04-17T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-17T07:00:00Z,Phosphate (uM),NA
+2022-04-17T07:00:00Z,Silicate (uM),NA
+2022-04-17T07:00:00Z,Ammonium (uM),NA
+2022-04-17T07:00:00Z,Nitrate (uM),NA
+2022-04-17T07:00:00Z,pDA (ng/mL),NA
+2022-04-17T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-17T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-17T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-17T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-17T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-17T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-17T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-17T07:00:00Z,Ceratium (cells/L),NA
+2022-04-17T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-17T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-17T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-17T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-17T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-18T07:00:00Z,Temperature (Celcius),14.965627222222222
+2022-04-18T07:00:00Z,Chlorophyll fluorescence (ug/L),2.234347222222222
+2022-04-18T07:00:00Z,Salinity(1e-3),33.62392555555556
+2022-04-18T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-18T07:00:00Z,Phosphate (uM),NA
+2022-04-18T07:00:00Z,Silicate (uM),NA
+2022-04-18T07:00:00Z,Ammonium (uM),NA
+2022-04-18T07:00:00Z,Nitrate (uM),NA
+2022-04-18T07:00:00Z,pDA (ng/mL),NA
+2022-04-18T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-18T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-18T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-18T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-18T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-18T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-18T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-18T07:00:00Z,Ceratium (cells/L),NA
+2022-04-18T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-18T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-18T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-18T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-18T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-19T07:00:00Z,Temperature (Celcius),15.170666944444445
+2022-04-19T07:00:00Z,Chlorophyll fluorescence (ug/L),3.2492083333333333
+2022-04-19T07:00:00Z,Salinity(1e-3),33.61458416666667
+2022-04-19T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-19T07:00:00Z,Phosphate (uM),NA
+2022-04-19T07:00:00Z,Silicate (uM),NA
+2022-04-19T07:00:00Z,Ammonium (uM),NA
+2022-04-19T07:00:00Z,Nitrate (uM),NA
+2022-04-19T07:00:00Z,pDA (ng/mL),NA
+2022-04-19T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-19T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-19T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-19T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-19T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-19T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-19T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-19T07:00:00Z,Ceratium (cells/L),NA
+2022-04-19T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-19T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-19T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-19T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-19T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-20T07:00:00Z,Temperature (Celcius),13.533369166666667
+2022-04-20T07:00:00Z,Chlorophyll fluorescence (ug/L),2.640727777777778
+2022-04-20T07:00:00Z,Salinity(1e-3),33.61227805555556
+2022-04-20T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-20T07:00:00Z,Phosphate (uM),NA
+2022-04-20T07:00:00Z,Silicate (uM),NA
+2022-04-20T07:00:00Z,Ammonium (uM),NA
+2022-04-20T07:00:00Z,Nitrate (uM),NA
+2022-04-20T07:00:00Z,pDA (ng/mL),NA
+2022-04-20T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-20T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-20T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-20T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-20T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-20T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-20T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-20T07:00:00Z,Ceratium (cells/L),NA
+2022-04-20T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-20T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-20T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-20T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-20T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-21T07:00:00Z,Temperature (Celcius),14.001100277777777
+2022-04-21T07:00:00Z,Chlorophyll fluorescence (ug/L),2.991241666666667
+2022-04-21T07:00:00Z,Salinity(1e-3),33.616819166666666
+2022-04-21T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-21T07:00:00Z,Phosphate (uM),NA
+2022-04-21T07:00:00Z,Silicate (uM),NA
+2022-04-21T07:00:00Z,Ammonium (uM),NA
+2022-04-21T07:00:00Z,Nitrate (uM),NA
+2022-04-21T07:00:00Z,pDA (ng/mL),NA
+2022-04-21T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-21T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-21T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-21T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-21T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-21T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-21T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-21T07:00:00Z,Ceratium (cells/L),NA
+2022-04-21T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-21T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-21T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-21T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-21T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-22T07:00:00Z,Temperature (Celcius),12.72196
+2022-04-22T07:00:00Z,Chlorophyll fluorescence (ug/L),2.8210361111111113
+2022-04-22T07:00:00Z,Salinity(1e-3),33.62874277777778
+2022-04-22T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-22T07:00:00Z,Phosphate (uM),NA
+2022-04-22T07:00:00Z,Silicate (uM),NA
+2022-04-22T07:00:00Z,Ammonium (uM),NA
+2022-04-22T07:00:00Z,Nitrate (uM),NA
+2022-04-22T07:00:00Z,pDA (ng/mL),NA
+2022-04-22T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-22T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-22T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-22T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-22T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-22T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-22T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-22T07:00:00Z,Ceratium (cells/L),NA
+2022-04-22T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-22T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-22T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-22T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-22T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-23T07:00:00Z,Temperature (Celcius),11.687584722222223
+2022-04-23T07:00:00Z,Chlorophyll fluorescence (ug/L),2.9549916666666665
+2022-04-23T07:00:00Z,Salinity(1e-3),33.758090555555555
+2022-04-23T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-23T07:00:00Z,Phosphate (uM),NA
+2022-04-23T07:00:00Z,Silicate (uM),NA
+2022-04-23T07:00:00Z,Ammonium (uM),NA
+2022-04-23T07:00:00Z,Nitrate (uM),NA
+2022-04-23T07:00:00Z,pDA (ng/mL),NA
+2022-04-23T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-23T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-23T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-23T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-23T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-23T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-23T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-23T07:00:00Z,Ceratium (cells/L),NA
+2022-04-23T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-23T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-23T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-23T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-23T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-24T07:00:00Z,Temperature (Celcius),12.03478511235955
+2022-04-24T07:00:00Z,Chlorophyll fluorescence (ug/L),3.4610365168539325
+2022-04-24T07:00:00Z,Salinity(1e-3),33.752513202247194
+2022-04-24T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-24T07:00:00Z,Phosphate (uM),NA
+2022-04-24T07:00:00Z,Silicate (uM),NA
+2022-04-24T07:00:00Z,Ammonium (uM),0.305
+2022-04-24T07:00:00Z,Nitrate (uM),NA
+2022-04-24T07:00:00Z,pDA (ng/mL),NA
+2022-04-24T07:00:00Z,Akashiwo_sanguinea (cells/L),1740
+2022-04-24T07:00:00Z,Alexandrium_spp (cells/L),0
+2022-04-24T07:00:00Z,Dinophysis_spp (cells/L),0
+2022-04-24T07:00:00Z,Lingulodinium_polyedra (cells/L),290
+2022-04-24T07:00:00Z,Prorocentrum_spp (cells/L),290
+2022-04-24T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),9260
+2022-04-24T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),2900
+2022-04-24T07:00:00Z,Ceratium (cells/L),0
+2022-04-24T07:00:00Z,Cochlodinium (cells/L),0
+2022-04-24T07:00:00Z,Gymnodinium_spp (cells/L),0
+2022-04-24T07:00:00Z,Other_Diatoms (cells/L),19690
+2022-04-24T07:00:00Z,Other_Dinoflagellates (cells/L),4050
+2022-04-24T07:00:00Z,Total_Phytoplankton (cells/L),36480
+2022-04-25T07:00:00Z,Temperature (Celcius),12.721139275766017
+2022-04-25T07:00:00Z,Chlorophyll fluorescence (ug/L),4.117133704735376
+2022-04-25T07:00:00Z,Salinity(1e-3),33.73806323119777
+2022-04-25T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-25T07:00:00Z,Phosphate (uM),NA
+2022-04-25T07:00:00Z,Silicate (uM),NA
+2022-04-25T07:00:00Z,Ammonium (uM),NA
+2022-04-25T07:00:00Z,Nitrate (uM),NA
+2022-04-25T07:00:00Z,pDA (ng/mL),NA
+2022-04-25T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-25T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-25T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-25T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-25T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-25T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-25T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-25T07:00:00Z,Ceratium (cells/L),NA
+2022-04-25T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-25T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-25T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-25T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-25T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-26T07:00:00Z,Temperature (Celcius),13.682310555555556
+2022-04-26T07:00:00Z,Chlorophyll fluorescence (ug/L),7.048191666666667
+2022-04-26T07:00:00Z,Salinity(1e-3),33.596579444444444
+2022-04-26T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-26T07:00:00Z,Phosphate (uM),NA
+2022-04-26T07:00:00Z,Silicate (uM),NA
+2022-04-26T07:00:00Z,Ammonium (uM),NA
+2022-04-26T07:00:00Z,Nitrate (uM),NA
+2022-04-26T07:00:00Z,pDA (ng/mL),NA
+2022-04-26T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-26T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-26T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-26T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-26T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-26T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-26T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-26T07:00:00Z,Ceratium (cells/L),NA
+2022-04-26T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-26T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-26T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-26T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-26T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-27T07:00:00Z,Temperature (Celcius),14.379546111111111
+2022-04-27T07:00:00Z,Chlorophyll fluorescence (ug/L),9.217447222222223
+2022-04-27T07:00:00Z,Salinity(1e-3),33.28820805555556
+2022-04-27T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-27T07:00:00Z,Phosphate (uM),NA
+2022-04-27T07:00:00Z,Silicate (uM),NA
+2022-04-27T07:00:00Z,Ammonium (uM),NA
+2022-04-27T07:00:00Z,Nitrate (uM),NA
+2022-04-27T07:00:00Z,pDA (ng/mL),NA
+2022-04-27T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-27T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-27T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-27T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-27T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-27T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-27T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-27T07:00:00Z,Ceratium (cells/L),NA
+2022-04-27T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-27T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-27T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-27T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-27T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-28T07:00:00Z,Temperature (Celcius),14.691505292479109
+2022-04-28T07:00:00Z,Chlorophyll fluorescence (ug/L),8.444880222841226
+2022-04-28T07:00:00Z,Salinity(1e-3),33.73621810584958
+2022-04-28T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-28T07:00:00Z,Phosphate (uM),NA
+2022-04-28T07:00:00Z,Silicate (uM),NA
+2022-04-28T07:00:00Z,Ammonium (uM),NA
+2022-04-28T07:00:00Z,Nitrate (uM),NA
+2022-04-28T07:00:00Z,pDA (ng/mL),NA
+2022-04-28T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-28T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-28T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-28T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-28T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-28T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-28T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-28T07:00:00Z,Ceratium (cells/L),NA
+2022-04-28T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-28T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-28T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-28T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-28T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-29T07:00:00Z,Temperature (Celcius),14.637158888888889
+2022-04-29T07:00:00Z,Chlorophyll fluorescence (ug/L),9.04363611111111
+2022-04-29T07:00:00Z,Salinity(1e-3),33.74084777777778
+2022-04-29T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-29T07:00:00Z,Phosphate (uM),NA
+2022-04-29T07:00:00Z,Silicate (uM),NA
+2022-04-29T07:00:00Z,Ammonium (uM),NA
+2022-04-29T07:00:00Z,Nitrate (uM),NA
+2022-04-29T07:00:00Z,pDA (ng/mL),NA
+2022-04-29T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-29T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-29T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-29T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-29T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-29T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-29T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-29T07:00:00Z,Ceratium (cells/L),NA
+2022-04-29T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-29T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-29T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-29T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-29T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-04-30T07:00:00Z,Temperature (Celcius),14.68636361111111
+2022-04-30T07:00:00Z,Chlorophyll fluorescence (ug/L),9.986325
+2022-04-30T07:00:00Z,Salinity(1e-3),33.7440775
+2022-04-30T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-04-30T07:00:00Z,Phosphate (uM),NA
+2022-04-30T07:00:00Z,Silicate (uM),NA
+2022-04-30T07:00:00Z,Ammonium (uM),NA
+2022-04-30T07:00:00Z,Nitrate (uM),NA
+2022-04-30T07:00:00Z,pDA (ng/mL),NA
+2022-04-30T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-04-30T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-04-30T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-04-30T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-04-30T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-04-30T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-04-30T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-04-30T07:00:00Z,Ceratium (cells/L),NA
+2022-04-30T07:00:00Z,Cochlodinium (cells/L),NA
+2022-04-30T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-04-30T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-04-30T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-04-30T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-05-01T07:00:00Z,Temperature (Celcius),15.249683888888889
+2022-05-01T07:00:00Z,Chlorophyll fluorescence (ug/L),11.795880555555556
+2022-05-01T07:00:00Z,Salinity(1e-3),33.75500805555556
+2022-05-01T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-05-01T07:00:00Z,Phosphate (uM),NA
+2022-05-01T07:00:00Z,Silicate (uM),NA
+2022-05-01T07:00:00Z,Ammonium (uM),NA
+2022-05-01T07:00:00Z,Nitrate (uM),NA
+2022-05-01T07:00:00Z,pDA (ng/mL),NA
+2022-05-01T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-05-01T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-05-01T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-05-01T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-05-01T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-05-01T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-05-01T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-05-01T07:00:00Z,Ceratium (cells/L),NA
+2022-05-01T07:00:00Z,Cochlodinium (cells/L),NA
+2022-05-01T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-05-01T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-05-01T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-05-01T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-05-02T07:00:00Z,Temperature (Celcius),14.881327777777777
+2022-05-02T07:00:00Z,Chlorophyll fluorescence (ug/L),13.902286111111112
+2022-05-02T07:00:00Z,Salinity(1e-3),33.76082944444445
+2022-05-02T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-05-02T07:00:00Z,Phosphate (uM),NA
+2022-05-02T07:00:00Z,Silicate (uM),NA
+2022-05-02T07:00:00Z,Ammonium (uM),NA
+2022-05-02T07:00:00Z,Nitrate (uM),NA
+2022-05-02T07:00:00Z,pDA (ng/mL),NA
+2022-05-02T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-05-02T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-05-02T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-05-02T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-05-02T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-05-02T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-05-02T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-05-02T07:00:00Z,Ceratium (cells/L),NA
+2022-05-02T07:00:00Z,Cochlodinium (cells/L),NA
+2022-05-02T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-05-02T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-05-02T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-05-02T07:00:00Z,Total_Phytoplankton (cells/L),NA
+2022-05-03T07:00:00Z,Temperature (Celcius),14.764755217391304
+2022-05-03T07:00:00Z,Chlorophyll fluorescence (ug/L),15.909369565217391
+2022-05-03T07:00:00Z,Salinity(1e-3),33.75929347826087
+2022-05-03T07:00:00Z,Chl-a extracted (ug/L),NA
+2022-05-03T07:00:00Z,Phosphate (uM),NA
+2022-05-03T07:00:00Z,Silicate (uM),NA
+2022-05-03T07:00:00Z,Ammonium (uM),NA
+2022-05-03T07:00:00Z,Nitrate (uM),NA
+2022-05-03T07:00:00Z,pDA (ng/mL),NA
+2022-05-03T07:00:00Z,Akashiwo_sanguinea (cells/L),NA
+2022-05-03T07:00:00Z,Alexandrium_spp (cells/L),NA
+2022-05-03T07:00:00Z,Dinophysis_spp (cells/L),NA
+2022-05-03T07:00:00Z,Lingulodinium_polyedra (cells/L),NA
+2022-05-03T07:00:00Z,Prorocentrum_spp (cells/L),NA
+2022-05-03T07:00:00Z,Pseudo_nitzschia_delicatissima_group (cells/L),NA
+2022-05-03T07:00:00Z,Pseudo_nitzschia_seriata_group (cells/L),NA
+2022-05-03T07:00:00Z,Ceratium (cells/L),NA
+2022-05-03T07:00:00Z,Cochlodinium (cells/L),NA
+2022-05-03T07:00:00Z,Gymnodinium_spp (cells/L),NA
+2022-05-03T07:00:00Z,Other_Diatoms (cells/L),NA
+2022-05-03T07:00:00Z,Other_Dinoflagellates (cells/L),NA
+2022-05-03T07:00:00Z,Total_Phytoplankton (cells/L),NA

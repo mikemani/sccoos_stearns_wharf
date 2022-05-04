@@ -6,6 +6,7 @@
 #    http://shiny.rstudio.com/
 library(shiny)
 library(cowplot)
+library(tidyverse)
 
 scaleFUN <- function(x) sprintf("%.2e", x)
 theme_set(

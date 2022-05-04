@@ -11,7 +11,7 @@ cal_ts = function(utcTime){
   return(dt)
 }
 
-sw_station <- readr::read_csv("https://erddap.sccoos.org/erddap/tabledap/autoss.csvp?station%2Ctime%2Ctemperature%2Cchlorophyll%2Csalinity&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-02-06T22%3A19%3A11Z", lazy = TRUE) %>%
+sw_station <- readr::read_csv("https://erddap.sccoos.org/erddap/tabledap/autoss.csvp?station%2Ctime%2Ctemperature%2Cchlorophyll%2Csalinity&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-05-03T22%3A19%3A11Z", lazy = TRUE) %>%
   dplyr::filter(., stringr::str_detect(station, "stearns")) %>%
   #default units time(UTC), temperature (celcius), chlorophyll (ug/L), salinity (1e-3)
   dplyr::rename(., datetime= "time (UTC)",temp="temperature (celsius)",
@@ -24,7 +24,7 @@ sw_station <- sw_station %>%
   dplyr::summarise(across(c(temp, chl, sal), mean)) %>% # calculate daily mean
   dplyr::mutate(across(c(temp, chl, sal), forecast::tsclean)) # convert outliers to linearly interpolated replacements
 
-sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp?latitude%2Clongitude%2Cdepth%2CSampleID%2CLocation_Code%2Ctime%2CTemp%2CAir_Temp%2CChl1%2CPhosphate%2CSilicate%2CAmmonium%2CNitrate%2CpDA%2CAkashiwo_sanguinea%2CAlexandrium_spp%2CDinophysis_spp%2CLingulodinium_polyedra%2CProrocentrum_spp%2CPseudo_nitzschia_delicatissima_group%2CPseudo_nitzschia_seriata_group%2CCeratium%2CCochlodinium%2CGymnodinium_spp%2COther_Diatoms%2COther_Dinoflagellates%2CTotal_Phytoplankton&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-01-10T15%3A30%3A00Z") %>%
+sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp?latitude%2Clongitude%2Cdepth%2CSampleID%2CLocation_Code%2Ctime%2CTemp%2CAir_Temp%2CChl1%2CPhosphate%2CSilicate%2CAmmonium%2CNitrate%2CpDA%2CAkashiwo_sanguinea%2CAlexandrium_spp%2CDinophysis_spp%2CLingulodinium_polyedra%2CProrocentrum_spp%2CPseudo_nitzschia_delicatissima_group%2CPseudo_nitzschia_seriata_group%2CCeratium%2CCochlodinium%2CGymnodinium_spp%2COther_Diatoms%2COther_Dinoflagellates%2CTotal_Phytoplankton&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-05-10T15%3A30%3A00Z") %>%
   dplyr::select( datetime= "time (UTC)", # select and rename columns
          "Chl-a extracted (ug/L)"= "Chl1 (mg/m3)",
          "Phosphate (uM)",
