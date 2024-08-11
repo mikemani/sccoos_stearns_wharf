@@ -91,8 +91,18 @@ plotOutput(outputId="plotgraph", height="600px")
 )
 
 # Define server logic required to draw a histogram
-server <- function(input, output) {
+server <- function(input, output, session) {
 
+    output$auth_user <- renderText({
+      req(session$userData$user())
+      session$userData$user()$email
+    })
+
+    observeEvent(input$polish__sign_out, {
+      req(session$userData$user()$email)
+      sign_out_from_shiny(session)
+      session$reload()
+    })
     ### Filter by date
     env_plot <- reactive({
       sccoos_long <- sccoos_long[as.Date(sccoos_long$day) >= input$Order[1] & as.Date(sccoos_long$day) <= input$Order[2] ,]
