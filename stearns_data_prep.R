@@ -11,7 +11,7 @@ cal_ts = function(utcTime){
   return(dt)
 }
 
-sw_station <- readr::read_csv("https://erddap.sccoos.org/erddap/tabledap/autoss.csvp?station%2Ctime%2Ctemperature%2Cchlorophyll%2Csalinity&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-05-03T22%3A19%3A11Z", lazy = TRUE) %>%
+sw_station <- readr::read_csv("https://erddap.sccoos.org/erddap/tabledap/autoss.csvp?station%2Ctime%2Ctemperature%2Cchlorophyll%2Csalinity&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2024-04-29T22%3A19%3A11Z", lazy = TRUE) %>%
   dplyr::filter(., stringr::str_detect(station, "stearns")) %>%
   #default units time(UTC), temperature (celcius), chlorophyll (ug/L), salinity (1e-3)
   dplyr::rename(., datetime= "time (UTC)",temp="temperature (celsius)",
@@ -55,7 +55,7 @@ sw <- sw %>%
   dplyr::mutate(., day = lubridate::floor_date(datetime, "day")) %>% # isolate date
   dplyr::select(., -datetime)
 
-sw <- dplyr::left_join(sw_station, sw, by = "day") %>%
+sw <- dplyr::full_join(sw_station, sw, by = "day") %>%
   dplyr::rename(., "Chlorophyll fluorescence (ug/L)"= chl, "Temperature (Celcius)"=temp, "Salinity(1e-3)"=sal)
 
 sw_long <- sw %>%
