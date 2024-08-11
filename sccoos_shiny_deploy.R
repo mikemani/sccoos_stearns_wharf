@@ -63,7 +63,7 @@ ui = fluidPage(
                                              "Nitrate (uM)"= "Nitrite_Nitrate (uM)",
                                              "particulate domoic acid (ng/mL)" = "pDA (ng/mL)",
                                              "dissolved domoic acid (ng/mL)" = "dDA (ng/mL)",
-                                             "total domoic acid (ng/mL)"= "tDA (ng/mL)"),),
+                                             "total domoic acid (ng/mL)"= "tDA (ng/mL)"),
                                  selected = "Temperature (Celcius)"  ,
                                  multiple = TRUE
                   ),
