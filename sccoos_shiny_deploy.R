@@ -60,8 +60,10 @@ ui = fluidPage(
                                              "Phosphate (uM)",
                                              "Silicate (uM)",
                                              "Ammonium (uM)",
-                                             "Nitrate (uM)",
-                                             "pDA (ng/mL)"),
+                                             "Nitrate (uM)"= "Nitrite_Nitrate (uM)",
+                                             "particulate domoic acid (ng/mL)" = "pDA (ng/mL)",
+                                             "dissolved domoic acid (ng/mL)" = "dDA (ng/mL)",
+                                             "total domoic acid (ng/mL)"= "tDA (ng/mL)"),),
                                  selected = "Temperature (Celcius)"  ,
                                  multiple = TRUE
                   ),
@@ -74,8 +76,8 @@ ui = fluidPage(
                                              "Prorocentrum (cells/L)"="Prorocentrum_spp (cells/L)",
                                              "Pseudo nitzschia delicatissima (cells/L)"="Pseudo_nitzschia_delicatissima_group (cells/L)",
                                              "Pseudo nitzschia seriata (cells/L)"="Pseudo_nitzschia_seriata_group (cells/L)",
-                                             "Ceratium (cells/L)",
-                                             "Cochlodinium (cells/L)",
+                                             "Ceratium (cells/L)" = "Ceratium_spp (cells/L)",
+                                             "Cochlodinium (cells/L)" = "Cochlodinium_spp (cells/L)",
                                              "Gymnodinium spp (cells/L)"= "Gymnodinium_spp (cells/L)",
                                              "Other Diatoms (cells/L)"="Other_Diatoms (cells/L)",
                                              "Other Dinoflagellates (cells/L)"="Other_Dinoflagellates (cells/L)",
@@ -94,17 +96,17 @@ ui = fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
-
-  output$auth_user <- renderText({
-    req(session$userData$user())
-    session$userData$user()$email
-  })
-
-  observeEvent(input$polish__sign_out, {
-    req(session$userData$user()$email)
-    sign_out_from_shiny(session)
-    session$reload()
-  })
+  ## Require login
+  # output$auth_user <- renderText({
+  #   req(session$userData$user())
+  #   session$userData$user()$email
+  # })
+  #
+  # observeEvent(input$polish__sign_out, {
+  #   req(session$userData$user()$email)
+  #   sign_out_from_shiny(session)
+  #   session$reload()
+  # })
 
 
   ### Filter by date

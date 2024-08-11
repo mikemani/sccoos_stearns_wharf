@@ -24,14 +24,18 @@ sw_station <- sw_station %>%
   dplyr::summarise(across(c(temp, chl, sal), mean)) %>% # calculate daily mean
   dplyr::mutate(across(c(temp, chl, sal), forecast::tsclean)) # convert outliers to linearly interpolated replacements
 
-sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp?latitude%2Clongitude%2Cdepth%2CSampleID%2CLocation_Code%2Ctime%2CTemp%2CAir_Temp%2CChl1%2CPhosphate%2CSilicate%2CAmmonium%2CNitrate%2CpDA%2CAkashiwo_sanguinea%2CAlexandrium_spp%2CDinophysis_spp%2CLingulodinium_polyedra%2CProrocentrum_spp%2CPseudo_nitzschia_delicatissima_group%2CPseudo_nitzschia_seriata_group%2CCeratium%2CCochlodinium%2CGymnodinium_spp%2COther_Diatoms%2COther_Dinoflagellates%2CTotal_Phytoplankton&time%3E=2015-01-01T00%3A00%3A00Z&time%3C=2022-05-10T15%3A30%3A00Z") %>%
+sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp?Location_Code%2Clatitude%2Clongitude%2Cdepth%2CSampleID%2Ctime%2CTemp%2CAir_Temp%2CSalinity%2CChl_Volume_Filtered%2CChl1%2CChl2%2CAvg_Chloro%2CPhaeo1%2CPhaeo2%2CAvg_Phaeo%2CPhosphate%2CSilicate%2CNitrite%2CNitrite_Nitrate%2CAmmonium%2CNitrate%2CDA_Volume_Filtered%2CpDA%2CtDA%2CdDA%2CVolume_Settled_for_Counting%2CAkashiwo_sanguinea%2CAlexandrium_spp%2CDinophysis_spp%2CLingulodinium_polyedra%2CProrocentrum_spp%2CPseudo_nitzschia_delicatissima_group%2CPseudo_nitzschia_seriata_group%2CCeratium_spp%2CCochlodinium_spp%2CGymnodinium_spp%2COther_Diatoms%2COther_Dinoflagellates%2CTotal_Phytoplankton&time%3E=2015-04-22T00%3A00%3A00Z&time%3C=2024-04-29T15%3A00%3A00Z")
+
+sw <- sw %>%
   dplyr::select( datetime= "time (UTC)", # select and rename columns
-         "Chl-a extracted (ug/L)"= "Chl1 (mg/m3)",
+         "Chl-a extracted (ug/L)"= "Avg_Chloro (mg/m3)",
          "Phosphate (uM)",
          "Silicate (uM)",
          "Ammonium (uM)",
-         "Nitrate (uM)",
+         "Nitrite_Nitrate (uM)",
+         "tDA (ng/mL)",
          "pDA (ng/mL)",
+         "dDA (ng/mL)",
          "Akashiwo_sanguinea (cells/L)",
          "Alexandrium_spp (cells/L)",
          "Dinophysis_spp (cells/L)",
@@ -39,8 +43,8 @@ sw <- read_csv("https://erddap.sccoos.org/erddap/tabledap/HABs-StearnsWharf.csvp
          "Prorocentrum_spp (cells/L)",
          "Pseudo_nitzschia_delicatissima_group (cells/L)",
          "Pseudo_nitzschia_seriata_group (cells/L)",
-         "Ceratium (cells/L)",
-         "Cochlodinium (cells/L)",
+         "Ceratium_spp (cells/L)",
+         "Cochlodinium_spp (cells/L)",
          "Gymnodinium_spp (cells/L)",
          "Other_Diatoms (cells/L)",
          "Other_Dinoflagellates (cells/L)",
