@@ -15,9 +15,6 @@ library(shinythemes)
 
 })
 
-
-source('global.R', local = T)
-
 load("stearns_wharf_habs.RData")
 
 
