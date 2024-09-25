@@ -5,37 +5,49 @@
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
+suppressMessages({
 library(shiny)
 library(cowplot)
 library(ggplot2)
+library(readr)
+library(gridExtra)
+library(shinythemes)
+
+})
+
+
+source('global.R', local = T)
+
+load("stearns_wharf_habs.RData")
+
 
 scaleFUN <- function(x) sprintf("%.2e", x)
 theme_set(
   theme(text=element_text(family="Times"),
         panel.background = element_rect(fill = NA),
-        panel.border = element_rect(colour = "black", fill=NA, size=0.5),
+        panel.border = element_rect(colour = "black", fill=NA, linewidth=0.5),
         panel.grid.major = element_line(linetype = "blank"),
         panel.grid.minor = element_line(linetype = "blank"),
         plot.title = element_text(size=12),
         axis.title = element_text(size = 14),
         axis.text = element_text(size = 12, colour = "black"),
         axis.line = element_line(colour = "black"),
-        axis.ticks = element_line(size = 1),
+        axis.ticks = element_line(linewidth = 1),
         legend.title = element_blank(),
-        legend.text = element_text(size = 12),
+        legend.text = element_text(size = 12, hjust= 0),
         legend.position = 'top',
         # legend.key = element_rect(fill = NA,size = 0.25),
         legend.background = element_blank(),
-        legend.key.width =unit(0.15, units = "cm"),
-        legend.key.height =unit(0.15, units = "cm"),
+        legend.key.width = unit(0.15, units = "cm"),
+        legend.key.height = unit(0.15, units = "cm"),
         axis.title.x = element_blank(),
         # axis.title.y = element_blank(),
         axis.text.x = element_text( angle=-45, hjust = 0.2, vjust = 1),
-        legend.text.align= 0,
         plot.margin = unit(c(0.05, 0.05, 0.05, 0.05), "cm"))
 )
 
-sccoos_long <- readr::read_csv("sw_long_shiny_data.csv")
+# read file in after updates to data
+# sccoos_long <- readr::read_csv("sw_long_shiny_data.csv", show_col_types = FALSE)
 
 
 # Define UI for application that draws two line plots
@@ -95,18 +107,7 @@ ui = fluidPage(
 
 
 # Define server logic required to draw a histogram
-server <- function(input, output, session) {
-  ## Require login
-  # output$auth_user <- renderText({
-  #   req(session$userData$user())
-  #   session$userData$user()$email
-  # })
-  #
-  # observeEvent(input$polish__sign_out, {
-  #   req(session$userData$user()$email)
-  #   sign_out_from_shiny(session)
-  #   session$reload()
-  # })
+server <- function(input, output) {
 
 
   ### Filter by date
@@ -149,9 +150,6 @@ server <- function(input, output, session) {
     gridExtra::grid.arrange(grobs=ptlist,widths=wtlist,nrow=length(ptlist))
   })
 }
-
-
-
 
 # Run the application
 shinyApp(ui = ui, server = server)

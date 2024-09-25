@@ -5,10 +5,8 @@ account: mikemaniscalco
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5594502
-bundleId: 8971142
+bundleId: 9142134
 url: https://mikemaniscalco.shinyapps.io/sccoos_stearns_wharf/
-when: 1723410737.541
-lastSyncTime: 1723410737.54102
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: sccoos_shiny.R|stearns_data_prep.R|sw_shiny_data.csv
+ignoredFiles: .RData|config.yml|sccoos_shiny.R|stearns_data_prep.R|sw_long_shiny_data.csv|sw_shiny_data.csv

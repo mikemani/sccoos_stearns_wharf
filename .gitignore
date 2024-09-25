@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 config.yml
-sccoos_*
+temp/
+rsconnect/
+.DS_Store
